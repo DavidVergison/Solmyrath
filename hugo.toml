@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://solmyrath.vercel.app/'
 languageCode = 'fr'
 title = 'Solmyrath'
 theme = 'hugo-book'
