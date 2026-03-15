@@ -1,0 +1,86 @@
+// Page header (title + subtitle)
+.book-page-header {
+  margin-bottom: 1.5rem;
+
+  h1 {
+    margin-bottom: 0.25rem;
+  }
+}
+
+.book-page-subtitle {
+  margin: 0;
+  font-size: 1rem;
+  opacity: 0.6;
+  font-style: italic;
+}
+
+.book-toc .book-toc-portrait img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.book-toc-portrait {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+// Gallery carousel
+.gallery-carousel {
+  position: relative;
+  overflow: hidden;
+  margin-top: 2rem;
+  padding: 0 2.5rem;
+}
+
+.gallery-track {
+  display: flex;
+  gap: 12px;
+  transition: transform 0.3s ease;
+}
+
+.gallery-slide {
+  flex: 0 0 calc((100% - 24px) / 3);
+  display: block;
+
+  img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 6px;
+    display: block;
+  }
+}
+
+.gallery-prev,
+.gallery-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  font-size: 1.8rem;
+  line-height: 1;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 1;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.7);
+  }
+
+  &:disabled {
+    opacity: 0.3;
+    cursor: default;
+  }
+}
+
+.gallery-prev {
+  left: 0;
+}
+
+.gallery-next {
+  right: 0;
+}

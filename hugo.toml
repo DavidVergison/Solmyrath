@@ -1,0 +1,25 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr'
+title = 'Solmyrath'
+theme = 'hugo-book'
+
+disablePathToLower = true
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[markup.highlight]
+  style = 'base16-snazzy'
+
+[params]
+  BookTheme = 'auto'
+  BookSection = 'docs'
+  BookToC = true
+  BookSearch = true
+  BookComments = false
+  BookPortableLinks = 'warning'
+  BookDateFormat = '2 January 2006'

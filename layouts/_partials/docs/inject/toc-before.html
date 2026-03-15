@@ -1,0 +1,16 @@
+{{- $sections := slice "lignee" "occupation" -}}
+{{- $page := .Page -}}
+{{- if and $page (not $page.IsSection) -}}
+  {{- with $page.Parent -}}
+    {{- with .File -}}
+      {{- if in $sections .ContentBaseName -}}
+        {{- $portrait := $page.Resources.GetMatch "portrait.*" -}}
+        {{- if $portrait -}}
+          <div class="book-toc-portrait">
+            <img src="{{ $portrait.RelPermalink }}" alt="Portrait — {{ $page.Title }}" />
+          </div>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

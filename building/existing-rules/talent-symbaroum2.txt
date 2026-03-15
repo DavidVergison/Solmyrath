@@ -1,0 +1,2057 @@
+Talents
+Vous trouverez dans cette section la description de nombreux nouveaux Talents,
+en majeure partie liés aux nouvelles Carrières introduites dans ce livre. Tout comme
+les Talents décrits dans le Livre de base, nombre d’entre eux peuvent être appris par
+n’importe qui, indépendamment de sa Carrière ou de son Archétype. Mais il existe
+également des Talents archétypaux ainsi que des Talents liés aux Carrières, ces derniers
+n’étant pas disponibles dès le début, mais seulement une fois que le personnage remplit
+les conditions requises. À condition, bien sûr, que votre groupe accepte cette contrainte.
+
+Alchimie (extension du Talent)
+
+L’alchimiste ne cesse d’approfondir ses connaissances en découvrant d’anciennes formules oubliées ou en en créant de nouvelles.
+Désormais, les personnages qui maîtrisent l’Alchimie pourront
+également créer les élixirs listés de la page 121, classés par niveau
+comme dans le Livre de base. Les effets des élixirs sont décrits
+dans la section Équipement en page 120.
+Les alchimistes sont habitués à travailler avec des substances
+explosives et volatiles et sont, par conséquent, capables d’utiliser
+des grenades alchimiques correctement et efficacement : dès le
+niveau Novice, les alchimistes ne risquent pas de subir un échec
+catastrophique avec des grenades alchimiques.
+
+Art de la forge
+
+Tous les peuples d’Ambria et de Davokar possèdent leurs forgerons, ce qui en dit long sur leur importance. Les maîtres-forgerons sont tenus en très haute estime au sein de toutes les cultures,
+mais plus particulièrement chez les Ambriens et les trolls. Le
+personnage est un forgeron talentueux et peut fabriquer des
+objets et outils du quotidien tout autant que des armes.
+Le coût de fabrication de ces objets est de la moitié du prix
+indiqué dans la liste et, si le forgeron vend ensuite l’objet, il
+reçoit en paiement le prix indiqué dans la liste. Autrement
+dit, le profit fait par le forgeron correspond à la moitié du prix
+indiqué dans la liste.
+Ce Talent peut être utilisé une fois par aventure, de préférence
+au cours d’un intermède calme (ou entre deux aventures, si cela
+semble plus raisonnable). Si l’objet est de nature consommable
+(des flèches ou des carreaux, par exemple), le forgeron peut en
+fabriquer 10 exemplaires à chaque fois.
+
+60
+
+Novice	
+Spécial. En réussissant un test d’Astuce, le personnage peut
+fabriquer un objet Novice. Le personnage peut également
+rapiécer une armure endommagée ou adapter une armure à
+une créature de plus grande ou de plus petite taille.
+	Les objets Novices sont toutes les armes et armures ordinaires, y compris celles qui possèdent les Qualités Court
+et Long. Aucune autre Qualité ne peut être fabriquée par
+le forgeron Novice.
+Adepte	
+Spécial. En réussissant un test d’Astuce, le personnage
+peut fabriquer un objet Adepte, possédant une Qualité
+autre que Court ou Long. Toutes les armes et armures
+mentionnées dans le Livre de base et dans le Guide du
+Joueur peuvent être fabriquées par l’Adepte, excepté les
+objets aux propriétés mystiques et ceux qui possèdent
+plus d’une Qualité au-delà de Court ou Long. L’Adepte ne
+peut pas non plus retirer les Qualités négatives d’un objet.
+Maître	
+Spécial. En réussissant un test d’Astuce, le personnage
+peut fabriquer une pièce de maître-artisan. Les maîtres
+forgerons ont la capacité d’ajouter plusieurs qualités aux
+armes et armures et d’en retirer les qualités négatives.
+En outre, ils peuvent insuffler des propriétés mystiques
+à toutes sortes d’armes et armures. Pour chaque Qualité
+ajoutée ou retirée, le prix de l’objet indiqué dans la liste
+est multiplié de façon cumulative par 5. Les propriétés
+mystiques multiplient la valeur par 10.
+
+Bâton mystique
+
+Accessible uniquement aux Mages au bâton
+
+Les Mages au bâton furent jadis les gardes de l’empereur de
+Symbaroum. Après la chute du dernier empereur, ils se retirèrent dans leur château au plus profond de Davokar, dans
+
+INTRODUCTION
+
+8
+
+61
+
+l’espoir de rebâtir leur ordre déclinant. À leurs yeux, ils
+étaient responsables de la chute de Symbaroum ; ils avaient
+manqué à leur devoir car ils attachaient plus d’importance
+aux titres, à la cour et au statut social qu’à la protection
+de l’Empire.
+La reformation donna naissance à l’ordre tel qu’il est
+aujourd’hui, ses membres ayant l’apparence de Mystiques
+sobrement vêtus et taciturnes mais doués de pouvoirs
+stupéfiants. Le personnage est l’un de ces élus possédant
+un bâton runique et ayant la responsabilité de restaurer
+la grandeur passée de l’ordre en anéantissant les Ténèbres
+et en plaçant l’héritier légitime du dernier empereur sur
+le Trône d’Épines de Symbar.
+Les Mages au bâton constituent un ordre d’élite faisant
+montre d’une extrême exigeance vis-à-vis de leurs recrues
+et ce, dès leur arrivée ; seuls les Mystiques les plus prometteurs peuvent espérer combattre un jour les Ténèbres
+en tant que membre de leur ordre.
+
+Afin de gérer ces situations, des techniques d’utilisation
+des armes à distance à bout portant ont été développées.
+Ce Talent peut être utilisé avec n’importe quel type d’arc
+ou d’arbalète.
+Novice	
+Réactive. En réaction à une attaque au corps-àcorps contre lui, le personnage peut s’emparer
+d’une flèche et s’en servir pour poignarder un
+ennemi. Le personnage doit réussir un jet d’Attaque
+normal face à l’ennemi ; une attaque qui touche inflige 1D6 points de dégâts et les caractéristiques du
+projectile (s’il en possède) sont prises en compte.
+Adepte	
+Réaction. Similaire au niveau Novice, mais en
+infligeant 1D8 points de dégâts.
+Maître	
+Réactive. Similaire au niveau Adepte, mais le
+Maître bénéficie également d’une Attaque gratuite
+avec son arme à distance si l’attaque au corpsà-corps a touché. Le maître poignarde avec son
+projectile puis, en cas de réussite, bande son arc
+
+Novice	
+Spécial. Le Mage au bâton lie son âme à un bâton
+
+afin d’effectuer une attaque à distance normale sur
+
+runique, sur lequel sont gravées les runes élémen-
+
+la cible. En cas d’utilisation d’une arbalète, il est
+
+taires.
+
+nécessaire qu’elle ait été préalablement chargée et
+
+	Le bâton absorbe toute la Corruption que le per-
+
+que l’attaque de mêlée initiale avec le projectile soit
+
+sonnage aurait dû subir en apprenant les pouvoirs
+
+effectuée avec un autre carreau ou que le person-
+
+de sa tradition au niveau Novice. Si le personnage
+
+nage soit équipé d’une arbalète à répétition.
+
+possède déjà des points de Corruption permanente
+au moment où il se lie avec le bâton, son niveau de
+Corruption permanente diminue de 1D6 points.
+Ceci ne peut être effectué qu’une seule fois ; si
+le bâton est perdu ou doit être remplacé, aucune
+diminution supplémentaire de la Corruption ne se
+produira.
+	En outre, le mage au bâton peut utiliser une Action
+gratuite pour activer une rune élémentaire et infliger
+
+Canaliser la Corruption
+
+Certains conjureurs et autres disciples de culte sont parvenus, en s’exposant aux pouvoirs des Ténèbres, à développer la capacité de résister à la Corruption et d’attirer la
+Corruption que d’autres qu’eux devraient subir. Avec de
+l’entraînement, Canaliser la Corruption peut également
+être utilisé pour transmettre la Corruption aux autres,
+telle une arme terrifiante.
+
+ainsi 1D4 points de dégâts supplémentaires avec
+son bâton, peu importe qu’il soit utilisé en combinaison avec les pouvoirs d’une Tradition ou en guise
+d’arme de mêlée. Le personnage peut choisir entre
+le feu, la foudre, le froid ou l’acide. L’activation des
+runes n’engendre pas de Corruption.
+Adepte	
+Spécial. Le bâton absorbe toute la Corruption que
+
+la Corruption temporaire qui devrait affecter une
+autre personne dans sa ligne de vue.
+Adepte	
+Réactive. Le personnage bénéficie d’une deuxième
+chance lors des jets de Corruption, y compris
+lorsqu’il reçoit la Corruption à la place de quelqu’un
+
+le personnage aurait dû subir en apprenant les pou-
+
+d’autre. Le personnage est libre d’accepter le ré-
+
+voirs de sa Tradition au niveau Adepte. De plus, le
+
+sultat le plus élevé ou le plus bas, en fonction de ce
+
+bâton contient si efficacement la Corruption que le
+
+qui lui est le plus favorable ; combiné avec le niveau
+
+personnage bénéficie d’une deuxième chance sur
+
+Maître en Canaliser la Corruption, le résultat le plus
+
+les jets de Corruption lors de l’utilisation de tous les
+
+élevé est le plus favorable, dans tous les autres cas,
+
+pouvoirs de sa Tradition ; le personnage subit les
+points de Corruption indiqués par le résultat le plus
+faible.
+
+il est préférable de choisir le résultat le plus bas.
+Maître	
+Réactive. Le personnage peut transférer la Corruption vers quelqu’un d’autre ; cela est valable
+
+Maître	
+Spécial. Le bâton absorbe toute la Corruption que le
+
+pour toutes les formes de Corruption dont il est
+
+personnage aurait dû subir en apprenant les pouvoirs
+
+affligé, quelle qu’en soit la source. En réussissant
+
+de sa Tradition au niveau Maître. Le bâton contient
+
+un test de [Volonté ← Volonté], la Corruption subie
+
+si efficacement la Corruption temporaire que le per-
+
+est transférée vers une cible dans sa ligne de vue.
+
+sonnage ne subit plus aucune Corruption temporaire
+
+Si le test échoue, le Maître ne conserve malgré tout
+
+lorsqu’il utilise tous les pouvoirs de la Tradition.
+
+que la moitié de la Corruption (arrondie au supé-
+
+Bout portant
+
+Dans le chaos du champ de bataille, les archers se
+retrouvent parfois entraînés au beau milieu de la mêlée.
+
+62
+
+Novice	
+Réactive. Le personnage peut choisir de recevoir
+
+rieur), tandis que le reste s’écoule dans le sol des
+environs, provoquant le flétrissement des plantes
+et l’assombrissement de la terre.
+
+TALENTS
+
+Chant des trolls
+
+Les traditions mystiques des trolls s’expriment au travers
+du chant, accompagné parfois par de la musique jouée par
+des cors, des flûtes ou des cornemuses. D’après le chant
+éducatif des trolls, la tradition provient des chants sonores
+utilisés par les trolls pour communiquer sur de longues
+distances dans le Monde Inférieur.
+
+5
+
+avec un simple bâton en bois ou un bâton runique —
+plus rapide et mieux équilibré que les autres armes
+de cette catégorie – le bonus est de +2 en Défense.
+Adepte	
+Réactive. Le personnage utilise l’extrémité arrière
+de l’arme longue et bénéficie d’une Attaque gratuite si l’adversaire se défend contre l’attaque initiale. Le lancer pour l’Attaque gratuite est effectué
+séparément et les dégâts sont de 1D6.
+
+Novice	
+Spécial. Le chanteur ne subit pas de Corruption
+
+	Si le personnage est équipé d’un bâton en bois (ou un
+
+permanente lors de l’apprentissage des chants
+
+bâton runique, mais ni une lance ni une hallebarde),
+
+troll au niveau Novice, mais n’est pas protégé
+
+cette attaque peut être effectuée après chaque
+
+contre la Corruption temporaire engendrée lors-
+
+Défense réussie face à des attaques de mêlée avec
+
+qu’il ou elle les chante.
+
+l’arme en main – le combattant riposte avec son
+
+	En outre, une fois par scène, tous les chanteurs
+
+arme longue immédiatement après avoir paré.
+
+trolls bénéficient d’une deuxième chance de réussir
+
+Maître	
+Active. Le personnage a appris à viser les jambes
+
+un test visant à influencer ou affecter un esprit (au-
+
+et attaquer l’ennemi qu’il vient de renverser en un
+
+trement dit, des situations dans lesquelles l’adver-
+
+seul mouvement. L’attaque initiale envoie l’ennemi
+
+saire se défend en utilisant sa Volonté). La relance
+
+à terre si l’attaquant réussit un test de [Préci-
+
+ne peut pas être utilisée pour créer ou maintenir un
+
+sion ← Agilité] et la suite est exécutée comme une
+
+enchaînement d’effets mystiques.
+
+Attaque gratuite avec l’Avantage sur l’adversaire.
+
+Adepte	
+Spécial. Le chanteur ne subit pas de Corruption
+permanente lors de l’apprentissage des chants troll
+
+Combattant véloce
+
+au niveau Adepte. L’adepte bénéficie également
+
+Accessible uniquement aux Frères jurés du Pacte du Fer
+
+d’une deuxième chance de réussir un test visant à
+
+Lors d’un combat en milieu forestier et en terrain vallonné, l’éloignement entre les adversaires peut changer
+rapidement, passant du corps-à-corps au combat à distance. Les Frères jurés du Pacte du Fer ont développé des
+techniques permettant de gérer ces changements soudains
+entre différents types d’armes, et les plus brillants d’entre
+eux peuvent se livrer à de véritables chorégraphies sur le
+champ de bataille, alternant sans effort entre armes de
+mêlée et à distance et profitant de chaque attaque ennemie
+pour contre-attaquer. Le personnage a été entrainé aux
+techniques complexes des Frères jurés permettant de sortir
+vainqueur de ces escarmouches.
+
+influencer ou affecter un esprit (autrement dit, des
+situations dans lesquelles l’adversaire se défend en
+utilisant sa Volonté), même s’il tente de créer ou de
+maintenir un enchaînement d’effets mystiques.
+Maître	
+Spécial. Le chanteur ne subit pas de Corruption
+permanente lors de l’apprentissage des chants troll
+au niveau Maître. Le maître bénéficie d’une deuxième
+chance de réussir l’ensemble de ses tests visant à
+influencer ou affecter un esprit (autrement dit, des
+situations dans lesquelles l’adversaire se défend en
+utilisant sa Volonté), même s’il tente de créer ou de
+maintenir un enchaînement d’effets mystiques.
+
+Combat au bâton
+
+L’apparente simplicité du bâton tend à masquer sa versatilité
+en tant qu’arme, c’est ce que démontrent les redoutables
+guerriers maniant le bâton que l’on rencontre le plus souvent
+chez les elfes de Davokar ainsi que les Mages ascètes qui
+utilisent leurs bâtons runiques pour se battre si la situation
+l’exige. Il existe également des combattants maniant le
+bâton parmi les tribus barbares, utilisant souvent la hache
+d’armes (connue sous le nom de hallebarde en Ambria). La
+question concernant l’existence d’origines communes entre
+ces traditions martiales ne peut pas être ignorée ; elles sont
+toutes aussi efficaces les unes que les autres – c’est ce qu’un
+personnage doué de ce Talent sera à même de démontrer.
+Les techniques de combat au bâton peuvent être exécutées avec toutes les armes longues – bâtons, lances, hallebardes et piques. Le bâton à chaînes, plus exotique, peut
+également être utilisé. En outre, ces techniques de combat
+sont particulièrement utiles à quiconque les utilise avec
+la plus simple de toutes armes longues : le bâton en bois.
+
+Novice	
+Passive. Le personnage peut diviser son mouvement
+et exécuter une partie de l’Action de mouvement
+avant son Action de combat, et la deuxième après.
+Cela permet d’utiliser efficacement les angles et
+les zones à couvert du terrain. Le personnage subit
+néanmoins les Attaques gratuites de ses ennemis si
+le mouvement le conduit ou le fait passer à portée de
+corps-à-corps d’un ennemi.
+Adepte	
+Passive. Le personnage peut librement changer
+d’arme au cours de son Action de combat. Cela lui
+permet uniquement de changer d’arme et ne lui
+procure pas une Action supplémentaire susceptible
+d’être utilisée pour quoique ce soit d’autre.
+	Par exemple, le Frère juré du Pacte de Fer peut commencer avec deux armes en main, utiliser une partie
+de son Action de mouvement pour s’éloigner, prendre
+son arc et tirer au cours de son Action de combat, puis
+reprendre ses deux armes en main. Enfin, le reste de
+son Action de mouvement est effectué.
+Réaction. Le personnage bénéficie d’une deuxième
+Maître	
+chance de réussir tous ses tests de Défense contre
+
+Novice	
+Réaction. Le personnage a appris à parer les
+attaques et bénéficie d’un bonus de+1 en Défense ;
+
+les Attaques gratuites déclenchées par son retrait de
+la mêlée. En outre, chacune de ces Attaques gratuites
+
+63
+
+permet à un Frère juré d’effectuer une Attaque gra-
+
+Don exceptionnel
+
+tuite contre son ennemi. Le personnage peut changer
+
+Accessible uniquement aux Mystiques
+
+librement d’armes lors de ces contre-attaques et
+
+Il existe de nombreux mythes décrivant l’origine des
+Pouvoirs mystiques, et de nombreuses traditions établies se
+hâtent de déclarer que leur version est la plus ancienne ou,
+tout au moins, aussi ancienne que les pratiques mystiques
+elles-mêmes. Quelle que soit la vérité, nombreux sont ceux
+qui pensent que ce sont des Mystiques autodidactes possédant un Don exceptionnel ou particulièrement développé
+qui ont fondé ces traditions.
+Le Don exceptionnel, inné ou acquis grâce à l’entraînement et la pratique, peut encore être rencontré chez certains Mystiques. D’une part, le don procure une singulière
+résistance à la Corruption du monde, d’autre part, il accorde
+au Mystique la capacité d’utiliser des pouvoirs mystiques
+improvisés, bien que le prix à payer soit élevé en Corruption.
+
+choisir celle qui est le plus adaptée à la situation.
+
+Coup bas
+
+Dans les bas-fonds des plus vastes cités d’Albérétor, des
+techniques particulières d’auto-défense ont émergé. Ces
+techniques continuent d’être pratiquées aujourd’hui au
+sein des gangs d’Yndaros.
+Novice	
+Active. Les coups bas tels que « le baiser du
+caniveau » (coup de tête) ou « presser le gobelin »
+(coup de pied dans l’entrejambe) sont des réflexes
+lorsque le personnage est dans une situation oppressante. Ces ruses infligent 1D6 points de dégâts,
+et si l’adversaire subit des dégâts, le personnage
+bénéficie également d’une Attaque gratuite contre
+lui.
+Adepte	
+Réactive. Le personnage effectue une attaque de
+
+nage de choisir un pouvoir signature. Ce pouvoir est
+sélectionné parmi ceux déjà connus du Mystique et,
+
+mêlée normale et, s’il inflige des dégâts, il ajoute un
+
+une fois choisi, son utilisation n’inflige plus qu’un (1)
+
+croche-pied ou un tacle. La manœuvre fait chuter
+
+point de Corruption temporaire. Si le personnage ne
+
+l’adversaire si le personnage réussit un test de
+
+possède aucun pouvoir ou souhaite utiliser un Talent
+
+[Astuce ← Agilité].
+
+corrupteur en guise de signature, il en a la possibili-
+
+Maître	
+Réactive. Chaque ennemi qui s’attaque au corps-
+
+té : le choix des Talents Ritualiste (incluant tous les
+
+à-corps au personnage subit une riposte brutale
+
+Rituels) ou Vision de l’ombre signifie que l’activation
+
+infligeant 1D6 points de dégâts immédiatement
+
+de ceux-ci ne coûtera jamais plus d’un point de
+
+après son attaque. La riposte atteint toujours un
+
+Corruption temporaire. Des Traits tels que Sagesse
+
+point faible et, par conséquent, ignore l’armure.
+
+Création d’artéfacts
+
+séculaire peuvent également être choisis.
+	Le Don exceptionnel n’a pas d’effet sur la Corruption permanente subie lors de l’apprentissage d’un
+
+Accessible uniquement aux Créateurs d’artéfacts.
+
+pouvoir d’une autre Tradition mystique, il affecte
+
+Les jours de gloire de la création d’artéfacts semblent révolus
+et les puissants secrets des anciens Forgerons runiques ont
+été perdus. Cependant, même dans l’ombre de la Corruption
+grandissante, les arts de la création perdurent, à une échelle
+plus modeste. Le personnage a été formé à l’art de la Création
+d’artéfacts et peut créer des artéfacts de faible puissance.
+De nos jours, il n’est plus possible de mettre la main sur des
+artéfacts de forte puissance autrement qu’en menant des
+fouilles dans les ruines de Symbaroum, mais les Créateurs
+d’artéfacts appartiennent à une Tradition qui garde la tête
+haute malgré les ombres et les Ténèbres.
+Le personnage connait également les artéfacts légendaires et comprend le fonctionnement des artéfacts. La
+Création d’artéfacts correspond au Talent Érudit pour
+l’analyse d’artéfacts, mais elle n’affecte pas leur utilisation.
+Les artéfacts sont décrits en détail dans la section
+Équipement en pages 123 – 127.
+
+uniquement la quantité de Corruption temporaire
+
+Novice	
+Une fois par aventure. En réussissant un test
+d’Astuce, le personnage peut créer un artéfact de
+niveau Novice.
+Une fois par aventure. Le personnage est un CréaAdepte	
+teur d’artéfacts réputé et peut, en réussissant un
+test d’Astuce, créer un artéfact de niveau Adepte.
+Maître	
+Une fois par aventure. Le personnage est un Créateur d’artéfacts célèbre et peut, en réussissant un
+test d’Astuce, créer un artéfact de niveau Maître.
+
+64
+
+Novice	
+Spécial. Le Don exceptionnel permet au person-
+
+subie lors de l’utilisation de ce pouvoir.
+Adepte	
+Active. Un personnage possédant le Don exceptionnel au niveau Adepte utilise son score total de
+Volonté en guise de Seuil de Corruption, au lieu
+de la moitié. Un tel individu n’est pas totalement
+corrompu tant que son total de Corruption n’atteint
+pas une valeur égale à Volonté x2.
+Active. Le Don permet alors au personnage de lanMaître	
+cer n’importe quel pouvoir mystique, mais jamais
+au-dessus du niveau Novice. Le personnage a une
+deuxième chance d’échouer à tous les tests de
+réussite et l’utilisation du pouvoir inflige 1D8 points
+de Corruption temporaire. Tous les pouvoirs mystiques sont disponibles, quelle que soit la tradition
+à laquelle ils appartiennent.
+
+Entrave
+
+Limiter la liberté de mouvement des ennemis ou d’une proie
+est une chose que les barbares maîtrisent, en utilisant des
+armes telles que les bolas, les filets ou le fouet long. Cette
+technique est également connue chez les Ambriens : les
+armes de type fléau sont, par exemple, utilisées au cours
+d’interminables combats-spectacles dans les arènes des
+gladiateurs et par de nombreux chasseurs de prime. On
+rencontre parfois des Adoptés (humains enlevés) équipés de bâtons articulés leur permettant d’entraver leurs
+
+TALENTS
+
+5
+
+Tableau 3 — Talents
+
+Talent
+
+Commun chez
+
+Talent
+
+Commun chez
+
+Acrobatie
+
+Guerrier, Roublard
+
+Instinct du Chasseur
+
+Uniquement Chasseur
+
+Alchimie
+
+Mystique, Roublard
+
+Jeu de lames
+
+Roublard
+
+Alchimie (extension)
+
+Mystique, Roublard
+
+Lancer puissant
+
+Guerrier, Roublard
+
+Art de la Forge
+
+Tous
+
+Lutte
+
+Guerrier
+
+Attribut exceptionnel
+
+Guerrier, Mystique, Roublard
+
+Magie
+
+Mystique
+
+Bâton mystique
+
+Uniquement Mage au bâton
+
+Maîtrise de la hache
+
+Guerrier
+
+Berserker
+
+Guerrier
+Chasseur
+
+Maîtrise des armes
+articulées
+
+Guerrier
+
+Bout portant
+Canaliser la Corruption
+
+Mystique, Roublard
+
+Maîtrise des armes d’hast
+
+Guerrier, Roublard
+
+Cavalier
+
+Guerrier, Mystique, Roublard
+
+Maîtrise du bouclier
+
+Guerrier
+
+Chant des trolls
+
+Mystique
+
+Maîtrise du marteau
+
+Guerrier
+
+Combat au bâton
+
+Chasseur, Guerrier
+
+Medicus
+
+Mystique, Roublard
+
+Combattant véloce
+
+Uniquement Frère juré
+Pacte de Fer
+
+Meneur né
+
+Guerrier, Mystique, Roublard
+
+Mystique en armure
+
+Uniquement Templier
+
+Conjuration
+
+Mystique
+
+Opportuniste
+
+Guerrier, Roublard
+
+Connaissance des bêtes
+
+Mystique, Roublard
+
+Poigne de fer
+
+Guerrier
+
+Coup bas
+
+Roublard
+
+Pouvoir du sang
+
+Coup en traître
+
+Roublard
+
+Uniquement Garde de la
+Rage assoupie
+
+Création d’artéfacts
+
+Uniquement Créateurs
+d’artéfacts
+
+Pouvoir mystique
+
+Mystique
+
+Puissance à deux mains
+
+Guerrier
+
+Dégainement rapide
+
+Guerrier, Roublard
+
+Pyrotechnique
+
+Domination
+
+Guerrier, Mystique, Roublard
+
+Uniquement Espions de la
+Reine
+
+Don exceptionnel
+
+Mystique
+
+Récupération
+
+Guerrier, Mystique, Roublard
+
+Double attaque
+
+Guerrier, Roublard
+
+Réflexes rapides
+
+Roublard
+
+Empoisonneur
+
+Mystique, Roublard
+
+Ritualiste
+
+Guerrier, Mystique, Roublard
+
+Entrave
+
+Guerrier, Roublard
+
+Sixième sens
+
+Guerrier, Roublard
+
+Épéiste virtuose
+
+Guerrier
+
+Sorcellerie
+
+Mystique
+
+Épreuve de force
+
+Guerrier
+
+Symbolisme
+
+Mystique
+
+Érudit
+
+Mystique, Roublard
+
+Tacticien
+
+Mystique, Roublard
+
+Étrangleur
+
+Roublard
+
+Tatouage runique
+
+Guerrier
+
+Expert en armes de siège
+
+Tous
+
+Théurgie
+
+Mystique
+
+Expertise des pièges
+Chasseur
+
+Voleur
+
+Tireur d’élite
+
+Guerrier, Roublard
+
+Tir ciblé
+
+Chasseur
+
+Feinte
+
+Roublard
+
+Tir en rafale
+
+Chasseur, Roublard
+
+Garde du corps
+
+Guerrier
+
+Valse des manteaux
+
+Guerrier né
+
+Guerrier
+
+Uniquement Gentleman-voleur
+
+Homme d’armes
+
+Guerrier
+
+Vision de l’Ombre
+
+Mystique, Roublard
+
+Inébranlable
+
+Guerrier, Mystique, Roublard
+
+65
+
+ennemis. Le personnage maîtrise les techniques d’entrave
+visant à lui donner l’Avantage en mêlée ou à capturer sa
+proie vivante.
+
++5]. Cela n’affecte pas sa Résistance à la douleur
+qui reste basée sur Force / 2, comme d’habitude.
+Adepte	
+Réactive. Plus le personnage subit des dégâts, plus
+il devient fort. Lorsque l’Endurance du person-
+
+Novice	
+Active. Le personnage bénéficie d’une deuxième
+
+nage est inférieure à sa moitié, il bénéficie d’une
+
+chance d’entraver sa cible (requiert une arme dotée
+
+deuxième chance de réussir tous ses prochains
+
+de la Qualité Immobilisant, voir en page 118).
+
+tests de Force, y compris les Attaques si elles sont
+
+Adepte	
+Active. Le personnage bénéficie d’une deuxième
+chance de mettre à terre un adversaire entravé
+
+basées sur cet Attribut.
+Maître	
+Réactive. Le personnage devient encore plus fort
+
+(requiert une arme dotée de la Qualité Immobilisant,
+
+lorsqu’il est sévèrement blessé. Lorsque l’Endu-
+
+voir en page 118).
+
+rance du personnage est inférieure à sa moitié, il in-
+
+Maître	
+Réactive. La précision du personnage dans le
+maniement des armes d’entrave est telle que chaque
+attaque de ce type est considérée comme touchant
+la cible au cou et engendre donc un effet de strangulation ; en plus de l’effet d’entrave et de la possibilité
+d’être mis à terre, l’ennemi subit 1D6 points de dégâts
+ignorant l’armure. Si l’Endurance de la cible descend à zéro, le personnage peut choisir de la rendre
+inconsciente au lieu de la tuer.
+
+Épéiste virtuose
+
+Parmi les duellistes d’Ambria, il en existe qui ont atteint
+une symbiose presque mystique avec leur épée et qui manipulent leur arme comme si elle était une extension de leur
+corps et de leur âme. Les techniques d’épéiste virtuose
+peuvent être utilisées avec une rapière (ou toute épée à une
+main possédant la Qualité Équilibré). Une dague de parade
+ou le Talent Valse des manteaux peuvent également être
+utilisés en combinaison avec l’épée, mais Épéiste virtuose
+ne peut pas être combiné avec le Talent Double attaque
+pour bénéficier d’un bonus supplémentaire aux dégâts.
+
+flige alors +1D4 dégâts de mêlée supplémentaires,
+en plus de l’effet décrit au niveau Adepte.
+
+Expert en armes de siège
+
+En Ambria, il y a deux façons de faire la guerre : sur le
+champ de bataille et en assiégeant l’ennemi. Les armes
+de siège sont utilisées dans les deux cas, même si c’est
+au cours d’un siège qu’elles sont les plus utiles. Ce Talent
+englobe l’utilisation de balistes, tours de siège et catapultes ainsi que la capacité d’entreprendre l’intégralité
+de la construction de ces engins. L’expert en armes de
+siège peut prévoir de creuser des tranchées protectrices
+et des tunnels de sape destinés à fragiliser les murailles
+ennemies. Ce Talent permet également d’utiliser des armes
+d’assaut alchimiques : grenades alchimiques, pots à feu,
+batteries de missiles et canons à feu alchimique, qu’ils
+soient statiques ou mobiles.
+Toutes les armes d’assaut et de siège sont décrites dans
+la section Armes en page 110.
+Novice	
+Spécial. Le personnage a été formé à l’utilisation
+de la baliste et peut construire des tours de siège
+
+Novice	
+Passive. Le personnage a appris à combattre effi-
+
+sur le terrain. Le personnage peut manipuler des
+
+cacement avec une épée équilibrée dans une main
+
+grenades alchimiques sans risquer de les faire
+
+et une dague de parade dans l’autre. Les dégâts
+
+exploser par erreur, contrairement aux utilisateurs
+
+infligés par l’épée sont de 1D10 au lieu de 1D8.
+
+inexpérimentés.
+
+Adepte	
+Réactive. Le personnage peut effectuer une riposte
+
+Adepte	
+Spécial. Le personnage peut organiser les travaux
+
+rapide. Une fois par tour, après une Défense réussie,
+
+de construction et utiliser efficacement des armes
+
+le personnage bénéficie d’une Attaque gratuite
+
+de sièges plus complexes, telles que la catapulte et
+
+contre son ennemi.
+
+son massif cousin, le trébuchet. Sur les lieux d’un
+
+Maître	
+Réactive. Le Maître peut se lancer dans une série de
+
+siège, le personnage peut planifier et mener les
+
+ripostes et bénéficier d’une Attaque gratuite contre
+
+travaux de construction de tranchées protectrices
+
+son adversaire à chaque test de Défense réussi, sans
+
+et de tunnels de sape. Le personnage a appris les
+
+que cela soit limité à un certain nombre par tour.
+
+secrets bien gardés de l’art des armes de siège –
+
+	Capacité supplémentaire passive : les dégâts de
+
+des écrans de fumée alchimique dissimulant les
+
+l’épée équilibrée passent à 1D12.
+
+troupes d’assaut des archers ennemis ; l’utilisation
+du pot à feu alchimique qui explose et perce les
+
+Épreuve de force
+
+fortifications ennemies ; et les canons à feu alchimique qui projettent leur feu mortel sur quiconque
+
+Accessible uniquement aux Guerriers
+
+passe devant eux. En outre, la version mobile des
+
+L’esprit du guerrier se renforce durant le combat, lui
+octroyant des pouvoirs miraculeux lorsqu’il en a besoin.
+Le personnage fait partie de ceux qui sont parvenus à
+accéder à cette source de brutalité intérieure, et savent
+comment en faire bon usage.
+
+canons à feu alchimique peut être manipulée sans
+risque, même sous la pression, sans s’exposer à
+des conséquences catastrophiques.
+Spécial. Le personnage possède une maîtrise
+Maître	
+impressionnante des armes alchimiques et elles
+obtiennent toutes la Qualité Massif si elles ne la
+
+Novice	
+Passive. Le personnage peut encaisser les coups
+et la valeur de son Endurance correspond à [Force
+
+66
+
+possèdent pas encore.
+
+TALENTS
+
+expertise des pièges
+
+Les pièges sont utilisés depuis la nuit des temps et ils
+sont particulièrement pratiques dans Davokar. Chez les
+barbares, l’art de la fabrication des pièges est connu par
+bon nombre d’individus et les Ambriens qui s’aventurent
+dans les bois savent également apprécier un bon piège à sa
+juste valeur. Le personnage a compris que les monstres et
+les abominations étaient plus aisément combattus après
+avoir été capturés et entravés.
+Quiconque maîtrise la fabrication des pièges peut
+déployer et désamorcer les pièges mécaniques tout comme
+les mines alchimiques. En outre, lorsque cela est nécessaire, le personnage peut rapidement fabriquer des pièges
+improvisés corrects à partir des matériaux qu’il ou elle a
+sous la main.
+Pour plus de détails concernant les règles sur les pièges,
+voir page 127.
+
+5
+
+Pièges et terrain
+L’efficacité des pièges est déterminée par les limitations et le
+potentiel du terrain. Ainsi, il est suggéré d’utiliser un plan de
+bataille lors de l’utilisation de pièges (voir page 166 du Livre
+de base). Si le Mouvement à l’échelle est utilisé, un piège
+occupe une case (voir page 187 du Livre de base).
+
+Novice	
+Active. En réussissant un test d’Astuce, le personnage peut utiliser une Action de combat pour poser
+ou désamorcer
+un piège. L’effet dépend
+du type de
+piège (voir page
+127 dans le chapitre
+Équipement). Le personnage peut également
+fabriquer un piège improvisé,
+mais un tour complet est nécessaire pour en achever la conception.
+Ce piège improvisé inflige 1D6 points
+de dégâts.
+Adepte	
+Active. Le personnage peut manipuler les
+mines alchimiques avec la même aisance que les
+pièges mécaniques. Le piège improvisé du personnage inflige 1D8 points de dégâts.
+Active. Le personnage est un renommé pour son
+Maître	
+expertise des pièges et sait comment faire
+usage de n’importe quel piège de façon
+optimale. Les pièges et les mines
+sont considérés comme étant
+d’un niveau supérieur :
+Faible devient Modéré,
+Modéré devient
+Puissant et le personnage bénéficie d’une
+deuxième chance sur
+tous ses lancers lorsqu’il
+utilise un piège ou une
+mine Puissante – les tentatives
+de l’ennemi pour repérer, désamorcer ou se libérer sont plus difficiles ;
+enfin, le dé de dégâts est lancé deux fois et le
+résultat le plus élevé est retenu. Pour les pièges
+alchimiques, la relance des dégâts ne s’applique
+qu’à l’explosion initiale et non aux dégâts continus
+qui lui succède. Les pièges improvisés infligent
+1D10 points de dégâts.
+
+67
+
+Instinct du chasseur
+
+	… remporter l’initiative au tour suivant (voir At-
+
+Accessible uniquement aux Chasseurs
+
+Les Chasseurs ont un instinct extrêmement aiguisé et, en
+fin de compte, il y a peu de cibles – peu importe qu’il s’agisse
+d’un criminel, d’un animal ou d’un Conjureur — capables
+d’échapper à leurs projectiles.
+
+taque rapide en page 99 ou Prendre l’initiative en
+page 104) puis, attaquer jusqu’à ce que le porteur
+de la lame courte le frappe à nouveau.
+	… utiliser une Action de mouvement pour s’éloigner
+de la mêlée, puis subir une Attaque gratuite de
+la part du porteur de la lame courte. Si l’Attaque
+
+Novice	
+Spécial. Le Chasseur désigne une cible se trouvant
+
+gratuite inflige des dégâts, l’ennemi se trouve de
+
+dans sa ligne de vue et bénéficie d’une deuxième
+
+nouveau à une distance trop faible pour être en
+
+chance de réussir toutes les Attaques à distance
+
+mesure d’attaquer efficacement.
+
+dirigées contre elle. La cible est choisie lorsque le
+personnage effectue une attaque contre elle et l’effet perdure jusqu’à ce que la proie meure ou jusqu’à
+la fin de la scène.
+Adepte	Passive. Les Attaques à distance du Chasseur contre
+une cible désignée infligent +1D4 points de dégâts.
+Maître	
+Réactive. Le maître Chasseur ne laisse aucune
+proie s’échapper. Le personnage bénéficie d’une
+attaque à distance gratuite sur une cible désignée
+aussitôt qu’elle se déplace. Cela se produit chaque
+fois que la cible utilise une Action de mouvement
+pour se rendre d’un endroit à un autre ; une cible
+utilisant ses deux Actions pour se déplacer subit
+deux Attaques à distance gratuites de la part du
+
+Lutte
+
+La lutte est populaire chez les guerriers, appréciée tout
+autant pour ses aspects éducatifs qu’en tant que loisir pur
+et simple. Ainsi, des luttes peuvent être observées dans
+toutes les arènes des plus grandes cités d’Ambria, dans les
+camps entre soldats désœuvrés et sur les champs de bataille
+au milieu des coups d’épées et de haches. Le personnage
+s’est entraîné à la lutte, avec et sans la protection de son
+armure. Le Trait Vigoureux ajoute un bonus en Force pour
+projeter un adversaire ou résister à une projection : +2 au
+niveau Novice, +4 au niveau Adepte et +8 au niveau Maître.
+Vigoureux ne procure pas de bonus si c’est un Attribut
+autre que la Force qui est utilisé.
+
+personnage.
+
+Jeu de lames
+
+L’utilisation de poignards est répandue dans les bas-fonds
+d’Yndaros, les lames courtes présentant des avantages lors
+de combats dans des allées étroites, les tunnels des égouts
+ou à l’intérieur des bâtiments. Une technique de combat
+spéciale en a émergé, connue sous le nom de Jeu de lames.
+Ce style s’est répandu à travers l’Ambria mis en pratique
+lorsqu’un combat se déroule dans un espace exigu.
+Jeu de lames ne peut être utilisé qu’avec des armes
+à courte lame, autrement dit des armes perforantes ou
+tranchantes possédant la Qualité Court.
+
+Novice	
+Active. Le personnage maîtrise les mouvements
+de lutte basiques et peut les utiliser face à des
+adversaires armés. En outre, le personnage peut
+pratiquer la lutte tout en ayant ses armes en main ;
+il n’a pas besoin de les lâcher ou de les mettre de
+côté.
+	L’attaque est effectuée comme d’habitude et, si elle
+est réussie, le lutteur maintient fermement son ennemi. Le lutteur peut alors essayer de projeter son
+ennemi ou simplement maintenir sa prise ; les deux
+alternatives requièrent un test de [Force ← Force].
+La projection inflige 1D4 points de dégâts ignorant
+l’armure, et l’ennemi se retrouve étendu sur le dos.
+
+Novice	
+Passive. Le personnage peut choisir d’attaquer
+
+	Le maintien de la prise n’inflige aucun dégât, mais
+
+avec son Agilité au lieu de sa Précision lorsqu’il
+
+l’ennemi ne peut pas agir jusqu’à ce que le lutteur
+
+attaque avec une arme à courte lame.
+
+rate un test de [Force ← Force]. De plus, tous les al-
+
+Adepte	
+Passive. Le personnage effectue deux Attaques
+
+liés du lutteur ont un avantage sur l’ennemi agrippé.
+
+distinctes avec une arme à courte lame sur la
+
+Le lutteur est également incapable de faire quoique
+
+même cible avec une Action de combat. Si le
+
+ce soit d’autre lorsqu’il maintient sa prise, ce qui le
+
+personnage possède également Double attaque, ce
+
+rend vulnérable : tous ses ennemis ont un Avantage
+
+Talent n’affecte que l’une des deux attaques, ce qui
+donne un total de trois attaques (deux avec la main
+principale et une avec l’autre main).
+Maître	
+Réactive. Le personnage sait combattre efficace-
+
+68
+
+sur le lutteur.
+Adepte	
+Réactive. Le personnage a appris à tirer profit de
+la force de son adversaire et peut l’utiliser pour le
+projeter au sol. Le lutteur doit d’abord réussir un
+
+ment avec une lame courte en étant très proche
+
+test habituel de Défense face à l’attaque de mêlée
+
+de l’ennemi : lorsque le personnage inflige des
+
+de son ennemi, puis il doit réussir un test de [Agilité
+
+dégâts suite à une attaque avec une lame courte,
+
+← Force]. La projection au sol inflige 1D4 points
+
+on considéré qu’il est si près de son ennemi que
+
+de dégâts ignorant l’armure et l’ennemi projeté se
+
+ce dernier a des difficultés à utiliser ses armes
+
+retrouve étendu sur le dos, incapable d’accomplir la
+
+ordinaires efficacement (le personnage bénéficie
+
+moindre Action active le tour suivant.
+
+de deux chances de réussir son test de Défense)
+
+Maître	
+Réactive. La projection réactive du personnage
+
+et est incapable de l’attaquer avec des armes Lon-
+
+(voir niveau Adepte) ne requiert que la réussite d’un
+
+gues. Pour atteindre une distance plus favorable,
+
+test de [Agilité ← Force], le test de Défense préalable
+
+l’ennemi doit…
+
+n’est plus nécessaire. Si la projection est ratée,
+
+TALENTS
+
+alors un test de Défense est effectué afin d’éviter
+d’être touché. La projection au niveau Maître inflige
+1D6 points de dégâts ignorant l’armure, et l’ennemi
+projeté se retrouve étendu sur le dos, incapable
+d’accomplir la moindre Action active le tour suivant.
+En outre, le maître lutteur bénéficie immédiatement d’une Attaque gratuite contre son ennemi.
+
+Maîtrise des armes articulées
+
+L’efficacité des armes munies de chaînes est, depuis longtemps, bien connue des chevaliers d’Ambria et de leurs
+écuyers. De nouvelles techniques d’utilisation des armes
+articulées ont émergé sur les champs de bataille et elles se
+sont transmises de guerrier en guerrier. Le personnage a été
+initié aux secrets des armes articulées et de leurs chaînes
+immobilisantes et a appris à en utiliser tout le potentiel.
+
+5
+
+Maîtrise du marteau
+
+L’utilisation du marteau en guise d’arme est ancienne et sa
+simplicité brutale peut, entre de bonnes mains, faire résonner
+le champ de bataille sous les coups d’un rythme mortel.
+Le personnage fait partie de ceux qui, grâce à l’entraînement et l’expérience, peuvent manier la puissance du
+marteau, qu’il s’agisse du modèle à une main ou de l’arme
+lourde.
+Novice	
+Réactive. Le personnage peut faire voler le
+bouclier de son adversaire en éclats. Après une
+attaque ratée au cours de laquelle l’adversaire se
+défend avec un bouclier (c’est-à-dire, si l’ennemi
+pare l’attaque du personnage), le personnage peut
+effectuer un test de [Force ← Agilité]. En cas de
+réussite, un bouclier en bois vole en éclats, tandis
+qu’un bouclier en métal est arraché du bras de
+
+Novice	
+Passive. Entre les mains du personnage, une arme
+articulée obtient la Qualité Immobilisant et peut
+ainsi être utilisée pour entraver un ennemi au lieu
+de tenter d’effectuer une attaque normale.
+Adepte	
+Passive. Le personnage peut mettre énormément
+
+l’adversaire et tombe au sol. Le porteur du bouclier
+subit également 1D6 points de dégâts dus à la
+puissance de la frappe.
+Adepte	
+Réactive. Lorsqu’un ennemi réussit à se défendre
+contre une attaque au marteau, le personnage
+
+de puissance dans les dégâts supplémentaires des
+
+peut empoigner le manche du marteau avec ses
+
+armes articulées, de telles frappes infligent 1D8
+
+deux mains et l’utiliser comme un bélier pour
+
+points de dégâts au lieu de 1D6.
+
+foncer dans son ennemi. La réussite d’un test de
+
+Maître	
+Active. Le Maître en armes articulées peut laisser son
+arme tournoyer même après avoir touché une cible. Le
+personnage peut ainsi effectuer des attaques sur tous
+les ennemis à sa portée, chaque attaque bénéficiant
+d’un lancer séparé.
+
+Maîtrise de la hache
+
+Par tradition, de nombreux guerriers d’origine barbare se
+munissent de haches en combat et, chez ces combattants,
+certaines techniques particulières ont été développées techniques qui utilisent tout le potentiel de la hache. Entre les
+mains du personnage, la hache est un outil efficace en combat.
+L’arme doit être une hache mais elle peut être lourde
+ou à une main.
+Novice	
+Active. La première chose qu’apprend ce guerrier
+de la hache est de frapper avec le bout du manche
+de la hache, dans le but d’infliger une douleur qui
+déstabilise l’adversaire avant d’administrer un
+coup plus puissant. La frappe du manche inflige
+
+[Force ← Force] fait reculer l’adversaire d’un pas,
+et le personnage profite de l’espace libéré pour
+effectuer une Attaque gratuite contre l’adversaire.
+Maître	
+Active. Le personnage effectue deux attaques au
+marteau contre la même cible, en une seule action.
+Si la victime réussit à se défendre sur l’une d’elles,
+le Maître fonce sur lui avec son marteau, de façon
+similaire au niveau Adepte. L’utilisation du marteau
+en guise de bélier n’est autorisée qu’une seule fois
+par tour, même si l’adversaire se défend contre les
+deux attaques.
+
+Mystique en armure
+
+Accessible uniquement aux Templiers
+
+Les Templiers ont développé des techniques et la faculté
+d’accomplir les miracles de Prios tout en portant une
+armure complète. Lorsque que les Chevaliers du Soleil
+mourant fondent sur un campement d’hérétiques, il n’est
+pas rare de les voir à la fois pourfendre leurs ennemis et
+bénir leurs alliés, revêtus de leurs armures d’acier.
+
+1D6 points de dégâts et assomme l’ennemi si le
+personnage réussit un test de [Précision ← Vo-
+
+Novice	
+Passive. Les Pouvoirs mystiques du personnage
+
+lonté], ce qui signifie que le personnage bénéficie
+
+ne sont pas affectés par le port d’une armure
+
+immédiatement d’une Attaque gratuite.
+
+moyenne. L’armure affecte normalement la Dé-
+
+Adepte	
+Active. L’étape suivante est l’apprentissage de la puissante double frappe : frapper avec un côté de la hache
+puis enchaîner en portant un coup avec l’autre côté.
+Le personnage effectue deux attaques en une seule
+Action de combat, toutes deux infligeant des dégâts
+
+fense.
+Passive. Les Pouvoirs mystiques du personnage ne
+Adepte	
+sont pas affectés par le port d’une armure lourde.
+L’armure affecte normalement la Défense.
+Maître	
+Passive. Le Mystique en armure a transcendé les
+
+d’un degré inférieur à la normale (1D10 = 1D8).
+
+limites imposées par l’armure et peut désormais en
+
+Passive. Le Maître de la hache en revient à l’essence
+Maître	
+
+tirer un Avantage. Un bonus de 1D4 est ajouté à la
+
+même du combat à la hache : le coup puissant. Une
+
+protection de l’armure lorsque le Templier la porte,
+
+fois par Action de combat, un coup porté avec une
+
+car des énergies mystiques la traversent.
+
+hache inflige 1D4 points de dégâts supplémentaires.
+
+69
+
+Pendant les aventures ou entre deux aventures ?
+
+Maître	
+Réactive. Le guerrier se soigne grâce au
+sang versé par ses ennemis. Le personnage ajoute à son Endurance la moitié des
+
+De nombre Talents peuvent être utilisés « une fois par aventure ». Ceci
+
+dégâts qu’il inflige en mêlée, arrondie à
+
+peut être géré de deux façons, en fonction des préférences du groupe de
+
+l’inférieur.
+
+jeu. Si les personnages ont également des périodes d’activité entre deux
+aventures, pendant lesquelles les joueurs leur font prendre part à diverses
+
+Pyrotechnique
+
+occupations (travailler, gérer un commerce ou autre), ces Talents peuvent
+
+Accessible uniquement aux Espions de la Reine
+
+être réutilisés pendant ce laps de temps ; certains personnages passant leur
+
+En Ambria, les avancées dans le domaine de l’alchimie ont conduit à l’utilisation d’armes alchimiques.
+Les agents secrets de la Reine sont particulièrement
+réputés pour employer de tels dispositifs, pour
+combattre les ennemis du royaume ou échapper
+à des situations délicates. Le personnage peut
+faire usage d’élixirs spéciaux afin d’aveugler ou
+d’affaiblir l’ennemi par d’autres moyens.
+Notez que le niveau Maître du Talent Sixième
+sens permet de continuer à agir normalement en
+cas d’aveuglement ; Sixième sens n’affecte pas les
+autres effets de Pyrotechnique
+
+temps libre dans leur laboratoire, leur forge, etc. Si le groupe se consacre
+entièrement à partir à l’aventure, il est sans doute plus adapté d’effectuer
+les jets de ces Talents au début de chaque nouvelle aventure ou dans une
+situation appropriée au cours de l’aventure.
+
+Opportuniste
+
+Au cours d’un combat, les points faibles sont exposés afin d’être exploités. C’est un fait bien connu des
+guerriers expérimentés d’Ambria et de Davokar,
+et ils peuvent enseigner à d’autres les moyens de
+profiter de telles opportunités.
+
+Novice	
+Active. Le personnage peut utiliser de la
+Novice	
+Réaction. Le personnage bénéficie d’une
+deuxième chance de réussir les Attaques
+
+Poudre Fulgurante fabriquée par un alchimiste afin d’éblouir un adversaire en mêlée.
+
+gratuites obtenues lorsque son ennemi se
+
+Cela requiert un test de [Précision ← Agilité] ;
+
+retire de la mêlée.
+
+l’attaque inflige 1D4 points de dégâts
+
+Adepte	
+Réactive. Le personnage peut utiliser ses
+Talents Actives sur les Attaques gratuites
+dont il bénéficie lorsque son ennemi se
+retire de la mêlée. S’il en utilise, cela annule
+la deuxième chance de réussite obtenue
+grâce au niveau Novice.
+Maître	
+Réaction. Lorsqu’un ennemi se retire de la
+
+(ignorant l’armure) et la cible est aveuglée
+pendant 1D4 tours.
+	Le personnage peut également manipuler
+les grenades et les mines alchimiques sans
+risquer un échec catastrophique.
+Adepte	
+Active. Le personnage peut utiliser efficacement un Fumigène alchimique, et remplir
+
+mêlée, le Maître opportuniste bénéficie à la
+
+une zone d’une épaisse fumée. Si le Fumi-
+
+fois d’une deuxième chance de réussir son
+
+gène est lancé à une distance importante,
+
+Attaque gratuite et de la possibilité d’utiliser
+
+un test de Précision est requis afin qu’il
+
+des Talents Actives lors de cette attaque.
+
+atterrisse à l’endroit souhaité. Si le person-
+
+Pouvoir du sang
+
+nage souhaite le lâcher à ses pieds, aucun
+test n’est requis, mais le personnage en su-
+
+Accessible uniquement aux Gardes de la Rage
+
+bit les effets, comme toutes les personnes
+
+Assoupie
+
+qui se trouvent à proximité. Quiconque est
+
+Les Sorcières de Karvosti comprennent mieux que
+quiconque le pouvoir du sang. Ces connaissances
+ont été développées en coopération avec la Garde de
+la Rage Assoupie. Le dévouement et l’entraînement
+des gardes leur permet d’utiliser à leur avantage
+le pouvoir du sang versé en combat – qu’il s’agisse
+du leur ou de celui de leurs ennemis.
+
+situé dans la zone, alliés et ennemis, sont
+aveuglés jusqu’à ce qu’ils quittent l’endroit
+(deux Actions de mouvement dans n’importe quelle direction). Ceux qui restent
+dans la fumée doivent réussir un test de
+Force à chaque tour ou subir 1D4 points de
+dégâts d’intoxication par la fumée, ignorant
+l’armure.
+
+Novice	
+Réactive. Le personnage puise de la force
+dans le sang qu’il verse. Lorsque son Endu-
+
+efficacement une Sphère de tempête sur
+
+rance est inférieure à sa moitié, le person-
+
+un groupe d’ennemis. Toutes les cibles
+
+nage dispose d’une deuxième chance de
+
+situées dans un rayon de cinq mètres sont
+
+réussir tous ses tests d’attaque en mêlée.
+Adepte	
+Réactive. Plus le guerrier subit des dégâts,
+
+70
+
+Maître	
+Active. Le personnage peut activer et lancer
+
+touchées, un test de [Précision ← Agilité]
+détermine s’ils subissent la moitié ou la
+
+plus ses frappes sont puissantes ; lorsque
+
+totalité des dégâts. Ceux-ci sont de 1D12,
+
+son Endurance est inférieure à sa moitié,
+
+ignorant l’armure. En outre, toutes les cibles
+
+les dégâts de toutes ses attaques ob-
+
+subissant la totalité des dégâts sont aveu-
+
+tiennent un bonus de 1D8.
+
+glées pendant 1D4 tours.
+
+TALENTS
+
+5
+
+La vérité selon les Symbolistes
+Selon les Symbolistes du clan Vajvod, les humains, réfugiés des terres orientales, s’installèrent jadis
+dans la région à l’ouest des Grands Freux. Les légendes prétendent que le territoire des Vajvods fut le
+premier à être peuplé et que la colonisation fit de nombreuses victimes. La nature exacte des obstacles
+rencontrés est sujette aux débats et aux suppositions - on évoque des géants, des hordes de créatures
+prédatrices et une tribu d’humains du nom d’Aravax ou Axerva, peut-être liée à la race de créatures
+aranéomorphes connue sous le nom de disciples d’Angathal Taar. Quoiqu’il en soit, les Symbolistes
+prétendent qu’il y a une leçon inestimable à tirer de ces légendes.
+Il est vrai que de nombreuses vies humaines auraient pu être sauvées si les réfugiés avaient utilisé
+des Pouvoirs mystiques plus puissants et plus rapides à concevoir, mais dans un premier temps seulement à court terme. Le triomphe de l’espèce humaine fut finalement dû aux conséquences tirées des
+erreurs du passé - la capacité du monde à punir sauvagement quiconque le trahit ou bien le maltraite.
+En partant de cette logique, les Symbolistes orthodoxes prétendent que les différences entre toutes les
+autres Traditions mystiques sont minimes et que les Sorcières et les Mages ne valent guère mieux que
+les Conjureurs.
+
+Réflexes rapides
+
+ce Talent et une valeur supérieure en Agilité
+
+Accessible uniquement aux Roublards
+
+ou en Vigilance sont susceptibles d’agir
+
+Les Roublards ont peu de choses en commun, si ce
+n’est leur volonté de survie – que ce soit parce qu’ils
+tiennent particulièrement à leur vie ou parce qu’ils
+se démènent pour atteindre leurs buts. Cette rage
+de vivre les a menés à développer de nombreux
+moyens variés d’éviter de subir des dégâts.
+
+avant le Roublard.
+
+Novice	
+Réactive. Lorsque le personnage se
+trouve dans une situation dans laquelle
+il subit un effet qui peut lui infliger soit la
+totalité, soit la moitié des dégâts (comme
+des grenades alchimiques ou le pouvoir
+Cascade de Soufre), le personnage subit
+la moitié des dégâts au lieu de la totalité et
+ne subit aucun dégât au lieu de la moitié.
+Par exemple, s’il est frappé par le pouvoir
+Cascade de Soufre, qui inflige normalement
+1D12 dégâts en cas de réussite et 1D6 en
+cas d’échec, ces dégâts se transforment en
+1D6 en cas de réussite et aucun dégât en
+cas d’échec.
+Adepte	
+Réactive. Le Roublard évite les attaques de
+mêlée de son ennemi et se faufile jusqu’à
+se retrouver dans son dos ; la réussite
+d’un test de Défense permet au Roublard
+d’échanger sa place avec celle de son
+ennemi, si le joueur le souhaite. De cette
+façon, le Roublard s’éloigne afin d’éviter
+d’être encerclé sans avoir à subir d’Attaque
+
+Symbolisme
+
+Le Symbolisme a été développé dans l’Est, pardelà les Grands Freux, dans ce que les Symbolistes
+appellent « la première cité de l’espèce humaine » —
+un lieu mythique, perdu quelque part dans les
+immenses déserts des désolations orientales. De
+nos jours, les Symbolistes se réunissent sur le
+territoire du clan Vajvod, bien que certains d’entre
+eux entreprennent de longs et lointains périples
+à la recherche d’informations sur les runes, les
+signes et les symboles. L’hypothèse de départ
+des Symbolistes consiste à dire que le monde est
+constitué de signes et de symboles et qu’il peut, par
+conséquent, être affecté et influencé en altérant
+les signes et symboles qui en représentent ses
+caractéristiques.
+Les Pouvoirs du Symbolisme sont créés à partir
+de dessins et d’écriture. Des procédés plus élaborés
+sont possibles, tels que la broderie, la gravure ou
+le tissage. Au-delà des procédés, le pouvoir du
+symbole se déclenche sur ordre du Symboliste, et
+le symbole se volatilise une fois que son pouvoir
+a été libéré.
+La création d’un symbole n’engendre pas de
+Corruption mais, au moment de l’activation,
+celui qui l’utilise subit un (1) point de Corruption
+temporaire.
+
+côté du Roublard.
+
+un parchemin,
+représentant, selon
+le clan Varakko, le
+plan d’un sanctuaire
+datant de l’époque
+
+gratuite. En outre, son ennemi se retrouve
+lui-même encerclé si un allié se tenait à
+
+Symboles sur
+
+Novice	
+Spéciale. Le personnage commence à
+s’emparer du pouvoir des runes. Les signes
+
+de Symbaroum. Les
+signes adjacents
+
+Gratuite. Les réflexes du Roublard expériMaître	
+
+doivent être représentés physiquement -
+
+signifiant « divinité »
+
+menté sont si aiguisés qu’il ou elle ignore
+
+sculptés, peints, gravés, tatoués - et cela
+
+et « bain de sang » font
+
+l’ordre habituel du tour et agit toujours en
+
+prend du temps ; pour un Novice, une heure
+
+travailler l’imagination
+
+premier ; seuls les personnages possédant
+
+est nécessaire afin de créer un symbole de
+
+de nombreux Mages.
+
+71
+
+pouvoir. Toutefois, seule une Action de combat est requise pour activer une rune, ce
+qui est accompli en murmurant une phrase
+d’activation. Notez que le Symboliste doit
+voir ou être en contact direct (à portée) du
+symbole afin de l’activer.
+	Le Symboliste ne peut avoir qu’un symbole
+par Pouvoir mystique préparé de cette façon. Lorsqu’un symbole a été utilisé, il doit
+être rechargé, comme s’il était créé pour la
+première fois.
+Adepte	
+Spéciale. Grâce à une Action de combat,
+le Symboliste peut rapidement peindre un
+symbole dans un livre ou le tracer dans la
+boue, la poussière ou la terre. Ces symboles
+temporaires transcendent les limitations
+
+Tatouage runique
+
+Les graveurs de runes du clan Vajvod, dans le
+Davokar oriental, tatouent souvent leur corps et
+ceux de leurs alliés avec de puissantes runes. Ces
+runes semblent presque vivantes et luisent d’un
+éclat rouge feu lorsqu’elles sont activées en combat.
+Le personnage porte de tels tatouages, qu’il les ait
+dessinés lui-même (requiert le Rituel Gravure de
+tatouage runique) ou qu’ils lui aient été offerts en
+cadeau ou en guise de récompense, vraisemblablement suite à un service de grande valeur rendu au
+Symboliste qui les a tracés.
+Tatouage runique requiert l’utilisation du Rituel
+Gravure de tatouage runique sur le personnage. Si
+le personnage possède ce Talent dès le départ, cela
+signifie que le tatouage est déjà tracé.
+
+qui contraignent le Symboliste à n’avoir
+qu’un seul symbole préparé par pouvoir.
+	Pour l’Adepte, l’activation des symboles -
+
+Novice	
+Réactive. Le tatouage runique procure 1D4
+points d’armure supplémentaires contre
+
+peu importe qu’ils aient été préparés selon
+
+les attaques, mais uniquement si le person-
+
+une méthode permanente (voir le rang
+
+nage choisit de l’activer. Activer cet effet
+
+Novice) ou temporaire - est une Action
+
+inflige un point de Corruption temporaire
+
+gratuite accomplie en murmurant un seul
+
+à chaque attaque qui touche et le person-
+
+mot. Néanmoins, un seul symbole peut être
+
+nage doit décider de l’utiliser ou non avant
+
+activé à chaque tour.
+
+d’effectuer les lancers pour les autres types
+
+	En outre, l’Adepte symboliste peut choisir
+d’activer les symboles en utilisant un
+critère matériel plutôt qu’un mot. Le critère
+est déterminé par le Mystique au moment
+où le symbole est créé et peut être, par
+
+d’armures.
+	En outre, la rune protège le personnage des
+intempéries et du vent de la même façon
+que des vêtements.
+Adepte	
+Réaction. Le tatouage runique est attiré
+
+exemple, le fait qu’un être vivant pénètre
+
+par les blessures sur le corps du person-
+
+dans la pièce, que quelqu’un marche sur
+
+nage et flamboie autour des plaies. Le per-
+
+le symbole ou qu’une arme soit brandie
+
+sonnage régénère d’un point d’Endurance
+
+à portée du symbole. Le Symboliste peut
+
+par tour ; chaque point ainsi soigné inflige
+
+s’exclure ou non de ce processus, au
+
+un point de Corruption temporaire. Le guer-
+
+contraire de ses alliés : si leurs agissements
+
+rier tatoué peut mettre fin au processus de
+
+correspondent au critère, le symbole sera
+activé.
+	L’Adepte peut effacer un de ses symboles
+
+régénération quand il le souhaite.
+Maître	
+Réaction. Le tatouage runique octroie
+plus de puissance aux attaques du
+
+d’un simple geste (Action gratuite), mais
+
+guerrier. Lorsqu’un ennemi est touché, et
+
+cela implique qu’il touche le symbole en
+
+si le personnage le souhaite, le tatouage
+
+question.
+
+flamboyant s’infiltre dans l’arme, infligeant
+
+Maître	
+Active. Grâce à une Action de combat,
+
+1D4 points de dégâts supplémentaires, et
+
+le Symboliste peut tracer des runes de
+
+autant de points de Corruption temporaire
+
+pouvoir enflammées dans les airs et les
+
+au personnage.
+
+activer au cours de la même action. Ainsi,
+le symbole fonctionne exactement comme
+les Pouvoirs d’autres Traditions, excepté
+que le Mystique ne subit qu’un point de
+Corruption temporaire par activation. Ces
+symboles temporaires transcendent les
+limitations qui contraignent le Symboliste
+à n’avoir qu’un seul symbole préparé par
+pouvoir.
+
+Tir ciblé
+
+Le tir ciblé à l’arc ou à l’arbalète est très populaire
+en Ambria, tout autant apprécié dans un spectacle
+qu’efficace dans un combat. Ces archers ne sont pas
+très nombreux, car la plupart des gens ne possèdent
+pas la patience nécessaire à l’acquisition d’un tel
+savoir-faire. Le personnage est l’un des rares ayant
+consacré sa vie à maîtriser l’usage de l’arc ou de
+l’arbalète.
+Novice	
+Active. Le personnage peut utiliser un
+tour complet (Action de combat et de
+mouvement) pour viser à la perfection,
+
+72
+
+TALENTS
+
+puis atteindre un point précis sur le corps
+de l’ennemi : éjecter une arme de sa main,
+épingler une partie de son corps à un arbre
+ou un mur ou viser les yeux pour l’aveugler.
+
+5
+
+partir les unes après les autres — une très mauvaise
+nouvelle pour les cibles peu protégées.
+Le Talent requiert l’utilisation d’un arc (de
+n’importe quel type) en combat.
+
+Le jet d’attaque est effectué normalement
+et, s’il touche et inflige des dégâts, l’effet
+recherché se produit également : une arme
+
+Novice	
+Active. Le personnage peut sacrifier son Action de mouvement pour tirer une deuxième
+
+est lâchée à terre et doit être ramassée, une
+
+flèche, soit un total de deux. Cela ne peut
+
+flèche ayant planté l’ennemi dans un mur
+
+être accompli que si l’Action de combat est
+
+doit être retirée ou brisée et un tir proche
+
+utilisée pour tirer avec un arc. Les lancers
+
+des yeux rend l’ennemi temporairement
+
+pour chacune des flèches sont effectués
+
+aveugle. Quelle que soit la situation, la cible
+
+séparément et peuvent cibler le même
+
+perd une Action de combat pour régler le
+problème.
+Active. L’archer peut faire ricocher les
+Adepte	
+projectiles sur les sols, les murs, les
+meubles, boucliers ou les créatures
+
+adversaire bien que ce ne soit pas obligatoire.
+Adepte	
+Active. Le personnage peut tirer deux
+flèches en une seule Action de combat, sur
+une seule cible ou deux différentes.
+Maître	
+Active. Le personnage tire trois flèches en
+
+vivantes à la peau dure ou équipées d’une
+
+une seule Action de combat, sur une seule
+
+armure robuste - quel que soit le cas, le
+
+cible ou deux différentes.
+
+projectile peut toucher les cibles qui sont
+à couvert. Ainsi, le personnage n’a pas
+
+Valse des manteaux
+
+besoin d’avoir une ligne de vue avant de
+
+Accessible uniquement aux Gentlemans Voleurs
+
+faire feu. Il doit avoir une idée de l’endroit
+
+Les épéistes d’Ambria considèrent les boucliers
+comme des objets grossiers et primitifs, et voient
+en la dague de parade un outil de défense beaucoup
+plus raffiné. Un autre courant est allé encore plus
+loin en développant d’élégantes techniques de
+parade consistant à transformer la cape de l’épéiste
+en un bouclier tourbillonnant.
+Le personnage peut utiliser sa main libre ainsi
+qu’un manteau, une cape ou un pan de tissu similaire pour sa Défense. Utilisé par le personnage, le
+tissu devient un bouclier ondulant et hypnotisant
+qui peut aller jusqu’à désorienter ou aveugler temporairement l’adversaire.
+
+où se trouve sa cible, ou l’avoir vue
+disparaître - à couvert ou dans la pièce
+adjacente, par exemple. Néanmoins, si
+la cible a effectué une double Action de
+mouvement durant son tour, elle ne peut
+être atteinte par le tir.
+	Ce type d’attaque est effectué normalement, qu’il s’agisse du test de réussite ou
+des dégâts
+Réactive. Une fois par tour, le personnage
+Maître	
+peut parer une attaque réussie à distance.
+Cette manœuvre de parade à distance peut
+être de deux types :
+	Face à une attaque de mêlée dirigée contre
+un allié : le maître tire un projectile qui
+détourne une attaque qui aurait normale-
+
+Novice	
+Passive. La cape du personnage, ou un pan
+de tissu similaire tenu en main, octroie un
+bonus de +1 en Défense.
+
+ment dû toucher l’un de ses alliés. Cette
+
+Adepte	
+Active. Le manteau frappe l’ennemi au
+
+manœuvre de parade requiert la réussite
+
+niveau des yeux, rendant la cible tempo-
+
+d’un test de [Précision ← Agilité]. En cas
+
+rairement aveugle si l’Attaque est réussie.
+
+de réussite, l’attaque manque l’allié sans
+
+Le personnage bénéficie immédiatement
+
+infliger de dégâts.
+
+d’une Attaque gratuite contre la cible, une
+
+	Face à un projectile physique dirigé contre
+
+attaque face à laquelle l’ennemi doit se dé-
+
+l’archer ou un allié : la manœuvre de
+
+fendre comme s’il était aveugle. Quiconque
+
+parade requiert la réussite d’un test de
+
+attaquant la cible aveugle obtient l’Avan-
+
+[Précision ← Agilité]. En cas de réussite, le
+projectile est détourné et manque sa cible.
+
+Tir en rafale
+
+Les archers d’Ambria et de Davokar ont développé
+des techniques de tir rapide. En termes simples,
+si l’archer est droitier, il place sa flèche sur le côté
+droit de l’arc au lieu du côté gauche et prend plusieurs flèches en même temps dans son carquois
+afin de les tenir de la main gauche. Ainsi, les flèches
+peuvent être encochées, dirigées et tirées en un
+seul mouvement, ce qui signifie qu’elles peuvent
+
+tage pendant toute la durée du tour.
+Active. Entre les mains du Maître, la cape
+Maître	
+se transforme en fouet doté de la Qualité
+Immobilisant et peut ainsi être utilisée pour
+entraver un ennemi. Voir page 118 pour plus
+de détails.
+
+73
+
+

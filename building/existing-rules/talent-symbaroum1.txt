@@ -1,0 +1,2186 @@
+Vigoureux
+
+112
+
+TRAITS
+
+12
+
+Maître	Gratuite. Grâce à la réussite d’un test de
+Volonté, le personnage peut adopter la forme
+d’un individu spécifique et maintenir l’illusion
+pendant toute une scène. Quiconque parle
+avec le personnage se rendra compte de
+l’illusion à moins que le personnage ne
+réussisse un test de [Discrétion ← Vigilance].
+Pour que le personnage parvienne à tromper
+les personnes de l’entourage proche de celui
+qu’il a choisi de copier, il doit réussir deux
+tests : le premier à distance et le deuxième
+une fois qu’il entame une conversation.
+
+Paria
+
+Le personnage appartient à une race affublée
+d’une mauvaise réputation au sein de la majorité
+dirigeante, et il est victime de discriminations plus
+ou moins flagrantes. Des individus isolés dans la
+société peuvent avoir moins de préjugés envers lui,
+mais les interactions sociales du personnage sont
+généralement difficiles. Les groupes persécutés ont
+tendance à faire front ensemble contre le reste du
+monde et à s’apporter aide et soutien mutuel.
+Lorsqu’il se retrouve confronté à une situation
+d’ordre social, le joueur doit lancer les dés deux fois
+et c’est le plus mauvais des deux résultats qui indique
+l’issue du test. D’un autre côté, le personnage reçoit
+une seconde chance de réussir lorsqu’il interagit avec
+d’autres représentants de sa race, auquel cas, il ne
+doit lancer les dés que s’il souhaite accomplir une
+action discutable ou s’il tente de réussir l’impossible.
+En outre, le personnage débute la partie avec cinq
+shillings dans sa bourse.
+
+Privilégié
+
+Le personnage appartient à une race d’un rang social
+élevé au sein de sa société et profite donc d’avantages
+auxquels d’autres n’ont simplement pas accès, ou pour
+lesquels ils doivent payer cher, voire travailler dur.
+Le personnage se voit accorder une seconde chance
+de réussir lorsqu’il est confronté à une situation d’ordre
+social au sein de sa propre société et n’a pas besoin de
+lancer les dés à moins de vouloir accomplir une action
+discutable ou s’il tente de réussir l’impossible.
+En outre, le personnage débute la partie avec
+cinquante thalers dans sa bourse.
+
+Vigoureux
+
+Le personnage appartient à une race de créatures
+naturellement grandes et qui continuent souvent de
+grandir tout au long de leur vie. Il existe néanmoins
+des variations : certains grandissent rapidement,
+d’autres plus lentement, tandis que quelques-uns
+semblent presque ne jamais grandir.
+
+Des écrits gravés dans les pierres d’Otra Dorno qui,
+bien que difficiles à déchiffrer, contiendraient le symbole correspondant à « massacre » ou « bain de sang ».
+
+une plus grande résistance naturelle. La Défense du personnage est basée sur [Agilité -2]
+et il ne peut utiliser que des armures légères,
+qui doivent être fabriquées sur mesure et
+coûtent, par conséquent, deux fois plus cher
+qu’une armure normale. En retour, le personnage ignore 1D4 dégâts à chaque coup qui
+le touche, en plus de la protection apportée
+par l’armure qu’il porte. Par ailleurs, il peut
+infliger 1D4 dégâts supplémentaires avec une
+attaque au corps à corps à chaque tour.
+Adepte	Spéciale. Le personnage mesure plus de
+2,5 mètres de haut, pèse environ 230 kg,
+et sa peau est aussi épaisse qu’une écorce.
+Une telle créature peut encaisser des coups
+importants, mais est également plus facile à
+toucher. La Défense du personnage est basée
+sur [Agilité -3] et il ne peut utiliser que des armures légères, qui doivent être fabriquées sur
+mesure et coûtent, par conséquent, trois fois
+plus cher qu’une armure normale. En retour, le
+personnage ignore 1D6 dégâts à chaque coup
+qui le touche, en plus de la protection apportée
+par l’armure qu’il porte. Par ailleurs, il peut
+infliger 1D6 dégâts supplémentaires avec une
+attaque au corps à corps à chaque tour.
+Maître	Spéciale. Le personnage mesure presque 3
+mètres de haut, pèse environ une demi-tonne
+et écrase littéralement les créatures plus petites tandis que les armes ennemies peinent à
+pénétrer sa peau de pierre. Il est très facile de
+toucher une créature de cette taille, mais très
+difficile de la blesser grièvement. La Défense
+du personnage est basée sur [Agilité -4] et
+il ne peut utiliser que des armures légères,
+qui doivent être fabriquées sur mesure et
+coûtent, par conséquent, quatre fois plus
+cher qu’une armure normale. En retour, le
+personnage ignore 1D8 dégâts à chaque coup
+
+Novice	Spéciale. Le personnage mesure presque 2
+
+qui le touche en plus de la protection appor-
+
+mètres de haut et possède une grande force.
+
+tée par l’armure qu’il porte. Par ailleurs, il peut
+
+Un corps aussi imposant devient plus facile à
+
+infliger 1D8 dégâts supplémentaires avec une
+
+toucher en combat, ce qui est compensé par
+
+attaque au corps à corps à chaque tour.
+
+113
+
+Talents
+Les Talents donnent au personnage son rôle et sa place au sein du monde de
+Symbaroum. Ils représentent la capacité d’une personne à utiliser ses aptitudes aussi
+efficacement que possible et sont divisés en trois niveaux, de Novice à Maître.
+
+114
+
+TALENTS
+
+Certains Talents sont presque exclusivement
+dédiés au combat, tandis que d’autres s’orientent
+plutôt vers la résolution de problèmes. Nombre
+d’entre eux peuvent être utilisés dans un cas comme
+dans l’autre, ce qui sera précisé dans la description du Talent. Notez également que de nombreux
+Talents demandent au joueur de dépenser certains
+types d’Actions. Référez-vous au Chapitre 17 : Règles
+des Joueurs (page 161) pour plus de précisions.
+Les Talents sont divisés en trois niveaux : Novice,
+Adepte et Maître. Un Adepte peut, bien entendu,
+utiliser le niveau Novice du Talent, tandis qu’un
+Maître peut utiliser les trois niveaux du Talent.
+Tous les Talents sont décrits suivant le même
+schéma, à l’aide des mots-clefs expliqués ci-dessous :
+• Action active : Le Talent est une attaque ou
+une Action de combat similaire. Certains
+Talents actifs procurent des Actions supplémentaires. Ces Actions supplémentaires
+ne peuvent pas être utilisées pour effectuer
+une Action active additionnelle, mais elles
+bénéficient de tous les effets des Talents passifs
+du personnage.
+
+•
+
+•
+
+•
+
+•
+
+Action gratuite : Cette Action peut être effectuée un nombre illimité de fois à chaque tour en
+plus des deux Actions de base du personnage,
+aussi longtemps que cela est autorisé par les
+conditions spécifiées dans le descriptif du Talent.
+Action passive : L’utilisation de ce Talent
+ne requiert pas l’activation d’une Action de
+combat ; en d’autres termes, il s’agit d’un Talent
+toujours actif. Si un personnage possède deux
+Talents passifs ou plus, ils sont alors tous considérés comme actifs en même temps.
+Action réactive : Ce Talent est une réaction à
+l’Action de quelqu’un d’autre. Par conséquent,
+elle ne compte pas dans les deux Actions qu’un
+personnage peut effectuer à chaque tour.
+Les Actions réactives ne suivent pas l’ordre
+habituel d’Initiative, car une Action réactive
+se déclenche à la suite d’une Action, quel que
+soit l’ordre d’Initiative. Les Actions réactives
+peuvent toujours utiliser des Talents passifs,
+mais jamais de Talents actifs.
+Action spéciale : Le Talent fonctionne selon
+certaines spécificités détaillées dans sa
+description.
+
+13
+
+Vue de l’intérieur
+de l’une des Tours
+souterraines de
+l’Arête de la Sangsue
+Noire. De nombreuses
+estimations ont été
+faites quant à leur
+profondeur, mais selon
+certaines rumeurs,
+elles descendraient
+jusqu’à 100, voire 200
+mètres.
+
+115
+
+Acrobatie
+
+Le personnage a appris à maîtriser l’art de
+manœuvrer avec agilité, en ayant fréquenté une
+compagnie de théâtre, au sein de l’une des écoles
+d’escrime d’Yndaros ou en grimpant dans les arbres
+de Davokar. L’adresse de l’acrobate lui procure un
+avantage lorsqu’il tente d’échapper à un combat
+rapproché ou d’infiltrer rapidement le cœur d’une
+formation ennemie.
+
+Adepte	
+Spéciale. Le personnage est un alchimiste
+confirmé, il peut effectuer un test d’Astuce
+afin de récolter des herbes et des minéraux
+qui lui permettront de préparer une dose d’un
+élixir Adepte ou 1D4 doses d’un élixir Novice.
+Maître	
+Spéciale. Le personnage est un alchimiste
+reconnu et peut effectuer un test d’Astuce
+afin de récolter des herbes et des minéraux
+qui lui permettront de préparer une dose
+d’élixir Maître ou 1d4 doses d’élixir Adepte ou
+
+Novice
+
+A
+ ctive. Le personnage peut effectuer un test
+d’Agilité pour éviter les Attaques gratuites
+des ennemis en combat au corps à corps, que
+ce soit pour tenter de ne pas se faire remarquer par un ennemi ou pour fuir un combat
+rapproché. Si le test échoue, le joueur doit
+choisir entre rester à sa place ou se déplacer
+malgré l’échec du test et subir une Attaque
+gratuite de la part de son adversaire.
+
+Adepte	
+Gratuite. Si le personnage est à terre, il
+peut tenter de se relever grâce à une Action
+gratuite en effectuant un test d’Agilité. En
+
+1D8 doses d’un élixir Novice.
+
+Attribut exceptionnel
+
+Tous les sens du personnage, ainsi que ses capacités
+physiques et mentales peuvent être améliorés. Avec
+un entraînement quotidien, les muscles peuvent
+être renforcés, la vue se faire plus perçante et
+l’esprit plus ouvert. Ce Talent améliore l’aptitude
+globale du personnage à survivre.
+Ce Talent peut être sélectionné à plusieurs
+reprises, et s’appliquera à un Attribut différent
+à chaque fois.
+
+cas d’échec, le personnage doit dépenser
+une Action de mouvement afin de se relever, selon la règle habituelle.
+Active. Le personnage peut utiliser ses
+Maître	
+ennemis comme bouclier au cours d’une
+bataille. Si le combat inclut plusieurs adversaires, alors une fois par tour, le personnage
+peut utiliser un ennemi comme bouclier et
+lui faire subir les dégâts qui auraient dû lui
+être infligés. Cet adversaire ne peut pas se
+défendre contre l’attaque, mais le maître
+
+Élixirs
+NOVICE
+
+Antidote (faible),
+Remède à base de
+plantes, Poison (faible),
+Pain de voyage.
+ADEPTE
+
+Antidote (modéré),
+Spores asphyxiantes,
+Essence élémentaire,
+Gouttes de vision,
+Lumière fantomatique,
+Concentré de magie,
+Poison (modéré), Huile
+de protection.
+MAÎTRE
+
+Antidote (puissant),
+
+acrobate doit réussir un jet d’Agilité afin de
+reporter les dégâts sur son adversaire.
+
+Alchimie
+
+Le personnage est initié aux mystères de l’alchimie.
+À l’aide des ingrédients appropriés, le personnage
+peut concocter divers types d’élixirs qui l’aideront
+à survivre aux sombres profondeurs de Davokar.
+Vous trouverez une liste des mixtures et potions
+au Chapitre 16 : Équipement, page 152.
+Lors de la résolution d’un problème, le Talent
+Alchimie peut être utilisé pour identifier des
+substances ou des poisons et en savoir plus sur
+leur provenance. Le personnage peut également
+tenter de préparer un élixir une fois par aventure.
+Cette tentative peut s’effectuer avant le début de
+l’aventure ou à un moment approprié au cours de
+l’aventure, par exemple lors de la traversée d’une
+forêt ou d’une grotte dans laquelle de puissants
+ingrédients peuvent être récoltés.
+
+Novice	
+Spéciale. Grâce à un travail acharné, le
+personnage a cultivé l’un de ses Attributs,
+ce qui l’améliore de +1.
+Adepte	
+Spéciale. Identique à Novice, mais l’Attribut est amélioré de +2.
+Spéciale. Identique à Novice, mais l’AttriMaître	
+but est amélioré de +3.
+
+Berserker
+
+Les effrayants guerriers barbares de Davokar ont
+développé une technique leur permettant de se mettre
+dans un stupéfiant état de rage avant un combat. En
+laissant la colère refoulée dans son cœur renforcer son
+corps, le personnage peut déclencher une véritable
+frénésie qui, si elle est canalisée correctement, peut,
+à elle seule, décider de l’issue du combat.
+Novice	Gratuite. Le personnage peut, grâce à une
+Action gratuite, entrer dans une folie meurtrière avec pour seul objectif de faire aussi
+mal que possible à l’ennemi. Il inflige ainsi
+1D6 dégâts supplémentaires en combat
+au corps à corps. Le revers de la médaille
+étant que, durant ce moment de frénésie, le
+personnage ne peut pas se défendre correctement. L’Agilité du personnage est réduite
+à 5 lors du calcul de sa valeur de Défense.
+Adepte	
+Réactive. La rage devient une véritable armure
+pour le personnage, qui ignore 1D4 dégâts pour
+chaque coup encaissé durant sa frénésie.
+Gratuite. Le personnage a réussi à maîtriMaître	
+
+Élixir de vie, Poison
+(puissant), Bombes à
+
+Novice	
+Spéciale. Grâce à la réussite sur un test
+
+ser sa rage sans perdre de sa puissance. Le
+
+spores, Poussière de
+
+d’Astuce, le personnage peut récolter des
+
+personnage peut à la fois utiliser ce Talent
+
+spectre.
+
+herbes et des minéraux afin de préparer
+
+pour infliger des dégâts supplémentaires et
+
+une dose d’un élixir Novice.
+
+pour en ignorer, tout en étant capable de se
+défendre normalement.
+
+116
+
+TALENTS
+
+Cavalier
+
+La cavalerie lourde domine les plaines d’Ambria, une
+vérité démontrée à de nombreuses reprises par la
+Reine Korinthia lorsqu’elle envoyait ses cavaliers en
+armure contre des barbares insoumis tout au long
+de sa première décennie d’invasion. Utiliser une
+monture en combat nécessite de l’entraînement,
+pour le cavalier comme pour la monture, mais s’ils
+parviennent à fonctionner de concert, ils forment
+alors une association extrêmement efficace. Ce
+Talent est également utilisé avec succès par les barbares des plaines de l’ouest, qui lancent des attaques
+surprises contre les communautés dans l’ouest de
+l’Ambria à l’aide de leurs attelages de chevaux.
+Un personnage possédant le Talent Cavalier
+sait également s’y prendre avec d’autres animaux
+domestiques ou d’élevage. Il peut, par conséquent,
+utiliser ce Talent pour calmer un animal agité, comme
+empêcher, par exemple, un chien de garde d’aboyer.
+
+choisie ne peut avoir qu’une seule issue et les plus
+dépravés d’entre eux sont déjà en paix avec cette
+fatalité, considérant leur inévitable asservissement
+final comme une forme de rédemption.
+
+Catégories de
+monstres
+
+Novice	
+Spéciale. Le conjureur a fait ses premiers
+
+ABOMINATIONS
+
+pas sur la pente glissante des ténèbres et a
+
+Formes de vie
+
+trouvé le moyen de ne pas perdre totale-
+
+ignobles et torturées
+
+ment pied. Le conjureur peut réduire la Cor-
+
+qui n’existent qu’en
+
+ruption qu’il subit. Grâce à la réussite d’un
+
+Davokar.
+
+test de Volonté, il ou elle ne reçoit qu’un (1)
+point de Corruption.
+
+expérimenté et a l’habitude de combattre
+
+BÊTES
+
+Adepte	
+Réactive. Le conjureur peut puiser dans sa
+
+Tous les animaux et
+
+propre Corruption pour parvenir à utiliser
+
+créatures appartenant
+
+des pouvoirs mystiques. S’il échoue dans
+
+à la nature, telle que
+
+l’utilisation d’un pouvoir, le conjureur peut
+
+loups, reptiles et ver-
+
+faire une deuxième tentative en effectuant
+
+mines arachnides.
+
+un test contre sa valeur totale de Corruption.
+Si ce test réussit, le pouvoir s’active normalement, mais le conjureur subit également 1D4
+
+Novice	
+Réactive. Le personnage est un cavalier
+
+13
+
+points de Corruption temporaire.
+Spéciale. Le conjureur peut utiliser la
+Maître	
+
+CRÉATURES
+CIVILISÉES
+
+Humains, elfes, changelins, ogres, gobelins
+
+sur sa monture. Le personnage sait mettre
+
+Corruption des autres afin de renforcer sa
+
+à profit le poids de sa monture dans une
+
+propre force mentale. À chaque fois que le
+
+charge de cavalerie et inflige 1D6 dégâts sup-
+
+conjureur tente d’affecter la Volonté d’une
+
+MORTS-VIVANTS
+
+plémentaires lors d’une attaque de corps à
+
+autre créature, il peut choisir d’effectuer un
+
+Toutes sortes de morts
+
+corps, si la monture a avancé avant l’attaque.
+
+test contre l’Ombre de la créature (Volonté
+
+tourmentés, tels que
+
+de la créature – sa valeur totale de Corrup-
+
+fantômes et dragouls.
+
+Adepte	
+Active. Le lien entre le cavalier et sa monture leur permet d’effectuer des attaques
+
+tion). Étrangement, les créatures totale-
+
+en mouvement, ce qui signifie qu’ils
+
+ment corrompues sont immunisées contre
+
+utilisent une partie de ses Actions de mou-
+
+cet effet, comme si elles se nourrissaient
+
+vement avant l’attaque et le reste ensuite.
+
+des ténèbres du monde pour accomplir leur
+
+De cette façon, ils peuvent effectuer des
+
+sombre destinée.
+
+attaques au corps à corps sans se retrouver
+bloqués dans un combat au corps à corps.
+L’ennemi ne peut répliquer qu’en utilisant
+des Actions réactives ou en dépensant
+leurs Actions de mouvement pour se lancer
+à la poursuite du cavalier.
+Maître	
+Réactive. Le Maître cavalier peut lancer
+une charge de cavalerie encore plus efficacement et inflige +1D10 dégâts lors d’une
+attaque de corps à corps, si la monture a
+avancé avant l’attaque.
+
+Conjuration
+
+Le personnage est suffisamment arrogant ou
+désespéré pour se tourner vers les ténèbres. Tandis
+que les autres traditions mystiques font tout leur
+possible pour éviter les pouvoirs avilissants de la
+Corruption, le conjureur choisit de suivre la voie
+inverse.
+Les pouvoirs et rituels de Conjuration reposent
+sur la force de Corruption et les opportunités
+offertes par la contamination. Le conjureur doit
+toujours conserver un équilibre entre s’emparer
+du pouvoir terrifiant qui se trouve à sa portée et ne
+pas se laisser emporter par les ténèbres. La plupart
+des conjureurs sont conscients que la voie qu’ils ont
+
+et trolls, par exemple.
+
+Connaissance des bêtes
+
+Le personnage possède une connaissance accrue
+du monde animal et de la plupart des monstres.
+Nombre de monstres sont dotés de capacités
+spéciales et possèdent des attaques uniques ainsi
+que des points faibles qu’il est utile de connaître
+lorsqu’un personnage tente de les abattre. À
+un niveau élevé, le personnage doit choisir une
+spécialisation — Abominations, Bêtes, Créatures
+civilisées ou Morts-vivants — et bénéficie d’avantages supplémentaires face aux représentants de
+la catégorie choisie.
+Un personnage possédant Connaissance des
+bêtes peut identifier les traces d’un grand nombre
+de monstres et de créatures, et mettre à profit ces
+informations afin d’en déduire la taille et le comportement de la créature : est-elle en chasse, en
+fuite ou seulement de passage ?
+Novice	
+Gratuite. Le personnage a étudié les
+monstres et peut effectuer un test d’Astuce
+afin de reconnaître ou de se souvenir
+des forces et faiblesses d’un monstre. Le
+Meneur de Jeu décrit le monstre et ses
+caractéristiques au joueur.
+
+117
+
+Adepte	
+Gratuite. Le personnage possède des connaissances approfondies et a étudié une sous-catégorie de monstres spécifiques (choisissez
+
+de changer d’arme rapidement si la situation l’exige —
+une compétence particulièrement appréciée parmi les
+escarmoucheurs barbares et les archers ambriens.
+
+Abominations, Bêtes, Créatures civilisées ou
+Morts-vivants). Le personnage inflige dorénavant
+
+Novice	
+Gratuite. Grâce à la réussite d’un test d’Agilité, le
+
++1D4 dégâts aux monstres de cette catégorie. Ces
+
+personnage peut sortir et dégainer son arme avec
+
+dégâts supplémentaires peuvent être infligés éga-
+
+une seule Action gratuite et par conséquent, être
+
+lement par les alliés du personnage, à condition
+
+en mesure d’utiliser son arme comme si elle avait
+
+qu’il leur ait indiqué de quelle manière combattre
+
+déjà été dégainée. Le personnage peut également
+
+la créature efficacement.
+
+recharger une arbalète avec une Action gratuite
+
+Maître	
+Gratuite. Le personnage inflige désormais +1D6 dé-
+
+grâce à un test d’Agilité réussi.
+
+gâts aux créatures appartenant à la sous-catégorie
+
+Adepte	
+Gratuite. Grâce à la réussite d’un test d’Agilité, le
+
+choisie par le joueur au niveau Adepte. Ces dégâts
+
+personnage peut changer d’arme avec une Action
+
+supplémentaires peuvent être infligés également
+
+gratuite, ce qui signifie qu’il peut rengainer une arme
+
+par les alliés du personnage, à condition qu’il leur
+ait indiqué de quelle manière combattre la créature
+efficacement.
+
+Coup en traître
+
+Le palais d’Yndaros, les allées de Fort Chardon et l’obscurité
+de Davokar sont des environnements extrêmement différents, mais ils possèdent néanmoins une chose en commun :
+lorsque les mots ne suffisent plus, ce sont les armes qui se
+mettent à parler. Le personnage a appris à exploiter les points
+faibles de la défense ennemie et ne passera pas à côté de
+l’opportunité d’effectuer un Coup en traître.
+Novice	
+Réactive. Lorsque le personnage a l’avantage, une
+attaque par tour inflige + 1D4 dégâts qui viennent
+s’ajouter aux dégâts précédemment infligés grâce
+à son avantage. Le personnage peut utiliser Discrétion au lieu de Précision, lorsqu’il a l’avantage.
+
+et en sortir une autre en un seul mouvement fluide.
+Maître	
+Gratuite. Le personnage utilise les élixirs avec aisance, il peut, grâce à la réussite d’un test d’Agilité,
+en boire une dose ou en administrer une dose à un
+allié avec une Action gratuite.
+
+Domination
+
+Grâce à leur seule présence, leur regard et leur voix, les
+personnalités fortes peuvent faire plier les esprits plus
+faibles au beau milieu de la bataille. Le personnage maîtrise l’art de la soumission en combat. Chez les gladiateurs
+d’Yndaros, cette technique est considérée comme un moyen
+particulièrement redoutable de remporter un combat,
+même les clans barbares considèrent qu’il s’agit d’un moyen
+extrêmement honorable de vaincre son ennemi.
+En société, ce Talent peut également être utilisé pour
+inspirer la peur, de forcer à l’obéissance ou à la divulgation
+de secrets.
+
+Le Coup en traître ne peut être effectué qu’une
+fois par tour, quelles que soient les circonstances.
+Adepte	
+Réactive. Le Coup en traître inflige à l’ennemi
+des dégâts supplémentaires (identiques à ceux
+
+versaire et déjouer ses plans grâce à sa force de
+conviction. Le personnage peut utiliser Persuasion
+
+indiqués ci-dessus) ainsi qu’une blessure hémor-
+
+au lieu de Précision en combat au corps à corps.
+
+ragique. L’attaque engendre une blessure ouverte
+
+Adepte	
+Gratuite. Le personnage peut, grâce à une Action
+
+qui saigne abondamment et inflige 1D4 dégâts à
+
+gratuite et à la réussite d’un test [Persuasion ←
+
+chaque tour qui suit l’attaque. L’ennemi continue à
+
+Volonté], forcer un ennemi à hésiter lors d’une at-
+
+saigner à moins d’être soigné grâce à un Remède
+
+taque au corps à corps. Un ennemi hésitant n’atta-
+
+à base de plantes, au Talent Medicus ou d’une
+
+quera pas durant ce tour. Au lieu de cela, il attaquera
+
+autre manière.
+Maître	
+Réactive. Le Coup en traître du personnage inflige
+
+l’un des alliés du personnage, si cela est possible.
+Maître	
+Active. Le personnage peut soumettre un en-
+
+à l’ennemi 1D8 dégâts supplémentaires ainsi
+
+nemi grâce à la réussite d’un test [Persuasion ←
+
+qu’une blessure hémorragique, comme au niveau
+
+Volonté]. Un ennemi soumis peut être contraint à
+
+Adepte. Il n’existe plus de limites au nombre de
+
+baisser son arme et à négocier afin de pouvoir fuir
+
+Coups en traître pouvant être effectués par un
+
+le combat (si cela est possible) ou se rendre si la
+
+Maître à chaque tour. Toutes les Attaques sont
+
+fuite est impossible. S’il prend déjà part au combat,
+
+considérées comme des Coups en traître aussi
+
+l’ennemi doit d’abord être blessé par le personnage
+
+longtemps que les conditions sont réunies pour
+
+ou l’un de ses alliés avant d’être soumis.
+
+donner au personnage l’avantage ou pour qu’il
+bénéficie de l’effet de surprise.
+
+Dégainement rapide
+
+Porter le premier coup peut déterminer l’issue d’un
+combat et, grâce à ce Talent, le personnage possède un
+avantage lorsqu’il tombe dans une embuscade. Le personnage est également un guerrier dynamique, capable
+
+118
+
+Novice	
+Passive. Le personnage peut dominer un ad-
+
+Double Attaque
+
+Barbares, Ambriens et gobelins pratiquent tous des
+techniques de combat qui utilisent plus d’une arme. Le
+personnage a appris à se battre avec deux armes, une
+technique complexe, mais efficace qui offre au guerrier un
+avantage offensif. La Double attaque est particulièrement
+efficace contre des adversaires en armures légères.
+
+TALENTS
+
+Novice	
+Active. Le personnage peut manier deux armes
+
+Tableau 6 — Talents
+
+sans encombre, une dans chaque main. Le No-
+
+Talent
+
+Commun chez
+
+vice peut combattre avec une arme à une main
+
+Acrobatie
+
+Guerrier, Roublard
+
+dans sa main principale et une arme courte
+dans l’autre. Le personnage peut effectuer deux
+attaques sur la même cible, infligeant respecti-
+
+Alchimie
+Attribut exceptionnel
+
+Mystique, Roublard
+Guerrier, Mystique, Roublard
+
+vement 1D8 et 1D6 dégâts. L’ennemi doit se dé-
+
+Berserker
+
+Guerrier
+
+fendre contre ces deux attaques séparément.
+
+Cavalier
+
+Guerrier, Mystique, Roublard
+
+Le Novice reçoit également un bonus de 1 à sa
+
+Conjuration
+
+valeur de Défense (considéré comme un effet
+
+Connaissance des bêtes
+
+passif), mais seulement lorsqu’il est équipé
+d’une arme dans chaque main.
+Adepte	
+Active. L’Adepte peut manier deux armes à une
+main, chaque attaque infligeant 1D8 dégâts.
+Maître	
+Active. La virtuosité du Maître lui permet d’infliger 1D10 dégâts avec l’arme de sa main principale et 1D8 dégâts avec sa deuxième arme.
+
+Empoisonneur
+
+Davokar abrite de nombreuses plantes vénéneuses
+aux puissantes vertus alchimiques. Le personnage est
+capable d’utiliser efficacement des armes empoisonnées
+en combat. Les poisons peuvent être achetés auprès
+de marchands ambulants peu scrupuleux. Toutefois,
+fabriquer soi-même des poisons nécessite des connaissances en alchimie (Talent Alchimie).
+Le Talent Empoisonneur peut être utilisé pour
+identifier différents poisons, ou bien les effets d’un
+poison sur une personne blessée ou un cadavre.
+Novice	
+Gratuite. Grâce à la réussite d’un test d’Astuce,
+le personnage peut appliquer une dose de
+
+Coup en traître
+Dégainement rapide
+Domination
+
+Mystique
+Mystique, Roublard
+Roublard
+Guerrier, Roublard
+Guerrier, Mystique, Roublard
+
+Double attaque
+
+Guerrier, Roublard
+
+Empoisonneur
+
+Mystique, Roublard
+
+Érudit
+
+Mystique, Roublard
+
+Étrangleur
+
+Roublard
+
+Feinte
+
+Roublard
+
+Garde du corps
+
+Guerrier
+
+Guerrier né
+
+Guerrier
+
+Homme d’armes
+
+Guerrier
+
+Inébranlable
+Lancer puissant
+Magie
+Maîtrise des armes d’hast
+Maîtrise du bouclier
+
+Guerrier, Mystique, Roublard
+Guerrier, Roublard
+Mystique
+Guerrier, Roublard
+Guerrier
+
+Medicus
+
+Mystique, Roublard
+
+Meneur né
+
+Guerrier, Mystique, Roublard
+
+poison ou d’une autre mixture alchimique à
+
+Poigne de fer
+
+Guerrier
+
+une arme. Cette unique dose de poison est suf-
+
+Pouvoir mystique
+
+Mystique
+
+fisante pour porter un coup avec l’arme avant
+
+Puissance à deux mains
+
+de devoir appliquer à nouveau du poison. La
+
+Récupération
+
+Guerrier, Mystique, Roublard
+
+Ritualiste
+
+Guerrier, Mystique, Roublard
+
+victime est alors empoisonnée jusqu’à ce que le
+personnage échoue à un test [Astuce ← Force],
+
+Guerrier
+
+Sixième sens
+
+Guerrier, Roublard
+
+tour au minimum. Les dégâts subis et la durée
+
+Sorcellerie
+
+Mystique
+
+maximale d’effet du poison dépendent de sa
+
+Tacticien
+
+Mystique, Roublard
+
+puissance (voir page 157).
+
+Théurgie
+
+Mystique
+
+mais elle est toujours empoisonnée pendant un
+
+Gratuite. Le personnage est capable de proAdepte	
+longer les effets d’une seule dose de poison à
+toute la durée d’une bataille. Une fois la dose
+
+13
+
+Tireur d’élite
+
+Guerrier, Roublard
+
+Vision de l’Ombre
+
+Mystique, Roublard
+
+appliquée sur l’arme, toutes les attaques sont
+considérées comme empoisonnées jusqu’à la
+fin de la scène.
+Maître	
+Gratuite. Le personnage maîtrise l’art de
+l’empoisonnement et sait comment exploiter
+efficacement tous les aspects d’un poison. Si
+le personnage réussit un test d’Astuce, tout
+poison appliqué sur une arme compte comme
+un poison de niveau supérieur. Un poison Faible
+est considéré comme Moyen, un poison Moyen
+est considéré comme un poison Fort. Un poison
+Fort n’inflige pas de dégâts supplémentaires,
+
+Érudit
+
+Le personnage est éduqué et connaît parfaitement
+le monde qui l’entoure : ses cultures, son histoire,
+ses langues et ses trésors. Au fil des siècles, héros,
+monstres et royaumes se sont succédés et ont laissé
+derrière eux de puissants objets magiques et de
+mystérieux écrits. Ce Talent reflète la connaissance
+de ces objets : un personnage qui en est doté a appris,
+grâce des études poussées, l’histoire de ces objets,
+mais également leurs propriétés et applications.
+
+mais octroie au personnage une seconde
+chance de réussir au test [Astuce ← Force].
+
+119
+
+Le Talent Érudit représente en outre la capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs, ce qui
+peut s’avérer fort utile lorsque ce type de situation se produit.
+
+Adepte	
+Active. Le personnage est capable d’utiliser les
+mortelles Spores asphyxiantes, récoltées dans les
+profondeurs de Davokar par les alchimistes. Grâce
+à la réussite d’un test [Astuce ← Agilité], les spores
+sont lancées en direction d’un ennemi et infligent
+
+Novice	
+Gratuite. Grâce à la réussite d’un test d’Astuce, un
+
+1D4 dégâts par tour pendant 1D4 tours, ignorant
+
+personnage qui possède ce Talent peut deviner les
+
+l’Armure. Il n’existe pas de défense connue contre
+
+propriétés d’un objet magique spécifique, mais pas
+
+les effets des Spores asphyxiantes, au-delà des
+
+le moyen de l’activer. De la même manière, un Novice
+
+soins à apporter à la victime lorsque les dégâts
+
+peut utiliser son Astuce pour traduire un texte ou
+
+apparaissent. Les victimes peuvent continuer à
+
+comprendre ce qui lui est dit dans une autre langue
+
+agir sans entrave, contrairement au niveau Novice
+
+humaine. Le personnage n’a pas besoin d’effectuer
+
+de ce Talent.
+
+un test pour formuler des mots ou phrases simples,
+
+Maître	
+Active. Le personnage maîtrise l’utilisation des
+
+mais la réussite à un test d’Astuce est nécessaire s’il
+
+délicates et mortelles Bombes à spores confec-
+
+tente d’avoir une vraie conversation.
+
+tionnées à partir des Spores asphyxiantes par les
+
+Adepte	
+Gratuite. Le personnage est suffisamment érudit
+
+maîtres alchimistes. La réussite d’un test d’Astuce
+
+pour pouvoir utiliser son Astuce au lieu de sa Volon-
+
+est nécessaire pour que les Bombes à spores at-
+
+té lorsqu’il tente d’activer un objet magique. Grâce
+
+terrissent à l’endroit souhaité, si elles sont lancées
+
+à la réussite d’un test d’Astuce, le personnage
+
+d’une distance importante. Les Bombes à spores
+
+peut également lire et comprendre la langue des
+
+se répandent dans un passage étroit, une petite
+
+elfes et celle si disgracieuse des trolls. Formuler
+
+zone ou une pièce ordinaire sous la forme d’un
+
+des phrases simples en langue elfique ou troll ne
+
+nuage suffocant. Quiconque se trouve dans cette
+
+nécessite pas de test, mais la réussite d’un test
+
+zone, ennemi ou allié, subit les effets des Bombes
+
+d’Astuce est nécessaire si le personnage souhaite
+
+à spores qui ignorent la protection des armures et
+
+entamer une conversation.
+
+infligent 1D4 dégâts pendant 1D4 tours.
+
+Maître	
+Gratuite. Le personnage est un spécialiste reconnu de l’interprétation des parchemins, il peut
+ainsi, grâce à la réussite d’un test d’Astuce, activer
+des pouvoirs mystiques directement à partir d’un
+parchemin. Ce niveau de Talent permet également au personnage d’utiliser son Astuce au lieu
+de sa Volonté pour résister aux effets mystiques.
+L’histoire de Symbaroum n’a plus de secrets
+pour le Maître : la réussite d’un test d’Astuce est
+nécessaire afin que le personnage puisse lire un
+
+Feinte
+
+Les créatures et personnages qui ne possèdent pas le
+désir ou la force d’utiliser des armes de mêlée lourdes
+ont développé des techniques de feinte. Ce Talent nécessite
+l’utilisation d’une arme de Qualité Courte ou Précise. Grâce
+à sa maîtrise technique, le personnage peut utiliser ces
+armes de manière discrète et déroutante. Chaque attaque
+bénéficie ainsi des mêmes avantages qu’une attaque surprise sur l’adversaire.
+
+texte écrit dans une langue ancienne et disparue.
+Formuler des phrases simples dans l’une de ces
+
+Novice	
+Passive. Le personnage peut choisir d’attaquer
+
+langues disparues ne nécessite pas de test, mais
+
+avec Discrétion au lieu de Précision lorsque l’at-
+
+la réussite d’un test d’Astuce est nécessaire si le
+
+taque est effectuée à l’aide d’une arme de mêlée
+
+personnage souhaite entamer une conversation.
+
+Étrangleur
+
+Le personnage s’est initié à l’art peu recommandable, mais
+parfois nécessaire de la strangulation. Cette technique de
+combat a mauvaise réputation chez les Ambriens comme
+chez les barbares, mais cela ne signifie pas qu’elle n’est
+pas ardemment souhaitée par tous ceux qui désirent se
+débarrasser discrètement d’un ennemi ou de ses gardes.
+Grâce à ce Talent, le personnage peut infliger de gros
+dégâts à un ennemi lent ou mal préparé à l’aide d’un garrot
+ou de spores asphyxiantes, s’il possède le niveau nécessaire
+pour les utiliser.
+Novice	
+Active. L’Étrangleur novice peut attaquer lorsqu’il
+a l’avantage. Une attaque réussie inflige 1D6
+dégâts à chaque tour et ignore l’Armure. La cible
+ne peut pas agir tant que l’Étrangleur ne l’a pas
+relâchée : le personnage maintient la strangulation
+grâce à la réussite d’un test [Astuce ← Astuce].
+
+120
+
+Courte ou Précise.
+Adepte	
+Réactive. Le personnage montre une fausse faille
+dans sa défense, ce qui encourage l’adversaire à profiter de cette faiblesse. Le personnage peut choisir
+de se défendre avec Discrétion au lieu d’Agilité.
+Maître	
+Active. Grâce à la réussite d’un test [Discrétion
+← Vigilance], le personnage peut surprendre un
+adversaire au beau milieu d’un combat en cours.
+Un test réussi octroie au personnage une Attaque
+gratuite contre cet adversaire, en plus de son attaque normale. Le personnage peut effectuer son
+attaque normale si la Feinte échoue.
+
+Garde du corps
+
+Les Ambriens de la haute société, les riches seigneurs
+marchands et autres potentats s’entourent de gardes du
+corps. Même au sein des tribus barbares, il existe des gardes
+personnels dont la fonction consiste à protéger le chef de clan.
+Le personnage est entraîné à faire barrage aux coups potentiellement fatals dirigés contre la personne qu’il protège.
+
+TALENTS
+
+Novice	
+Réactive. En réussissant un test de Volonté, le
+
+Novice	
+Passive. Le personnage sait exploiter tout le po-
+
+personnage peut encaisser les coups dirigés
+
+tentiel de son armure, ce qui augmente le niveau
+
+contre un de ses alliés. Le personnage ne peut pas
+
+de protection de son armure d’un niveau : une
+
+se défendre contre ces attaques, elles le touchent
+
+armure légère donne une protection de 1D6, une
+
+automatiquement.
+
+armure moyenne donne une protection de 1D8,
+
+Adepte	
+Réactive. Les talents de protecteur possédés
+par le personnage lui permettent de se défendre
+
+une armure lourde donne une protection de 1D10.
+Adepte	
+Passive. Le personnage a l’habitude de porter
+
+contre toutes les attaques dirigées vers la per-
+
+une armure et sait adapter ses actions en tenant
+
+sonne qu’il protège.
+
+compte des limitations imposées par cette
+
+Réactive. Le personnage est un véritable ange
+Maître	
+
+dernière. L’armure n’a plus d’effet négatif sur
+
+gardien. Il peut non seulement se défendre contre
+
+son Agilité ou sur les Talents basés sur l’Agilité
+
+les attaques, mais également effectuer une
+
+(y compris la Défense). La Qualité Gênante de
+
+Attaque gratuite contre chaque adversaire qui
+
+l’armure conserve son effet négatif sur l’utilisation
+
+effectue une attaque au corps à corps contre le
+personnage placé sous sa protection.
+
+Guerrier né
+
+Il n’est pas toujours nécessaire d’avoir une épée ou un arc
+pour se battre. Le personnage a suivi un entraînement
+long et difficile qui a fait de lui un adversaire dangereux
+même lorsqu’il n’est pas armé. Les barbares des forêts
+possèdent de grandes traditions martiales de lutte et de
+combat à mains nues. Le style de combat développé dans
+les bas-fonds dans la partie est d’Yndaros en est un autre
+exemple, style qui peut se retrouver de nos jours au Dôme,
+depuis qu’un duo de gladiateurs renommés de la cité en
+a adopté les techniques.
+Novice	
+Passive. Le personnage a appris a utiliser ses
+talents de Guerrier né avec une grande efficacité. Les attaques à mains nues du personnage
+infligent désormais 1D6 dégâts. Si la créature
+possède également le Trait monstrueux Arme
+naturelle, les dégâts augmentent en fonction du
+niveau de ce Trait.
+Active. Le personnage bénéficie de la vitesse d’un
+Adepte	
+
+13
+
+de pouvoirs mystiques.
+Maître	
+Réactive. Le personnage peut effectuer un test
+d’Agilité pour contrer les effets des Talents et de
+l’Équipement qui font que les attaques ennemies
+réduisent ou ignorent les valeurs de Protection.
+Les pouvoirs mystiques qui ignorent la protection
+ne peuvent pas être contrés de cette manière : ils
+ne sont pas affectés par le Talent Homme d’armes.
+
+Inébranlable
+
+La discipline mentale et les stratagèmes permettant de
+résister aux inf luences néfastes ont été depuis longtemps développés au sein des rangs des Templiers et
+des Manteaux noirs. On trouve également parmi les
+Mystiques, des individus ayant perfectionné l’art de la
+résistance. L’esprit du personnage est aussi impénétrable
+que l’acier et le pousse à continuer le combat y compris
+lorsque tout espoir semble perdu.
+Les Mystiques parviennent rarement à entraver ou
+à prendre le contrôle des sens du personnage, et dans
+certains cas, un personnage réellement inébranlable
+réussit à se défendre et même à retourner la magie contre
+son lanceur.
+
+Adepte et peut désormais effectuer une double
+attaque contre une même cible. Les lancers correspondants aux deux attaques s’effectuent l’un
+après l’autre.
+Maître	
+Passive. Le personnage vise les points faibles
+
+Novice	
+Réactive. Le personnage peut effectuer un
+deuxième test de Force ou de Volonté lorsqu’il
+est affecté par certains effets physiques : pièges,
+poison, effets alchimiques. Cela inclut les énergies
+
+de son adversaire — la gorge ou les genoux, par
+
+provenant de pouvoirs mystiques à condition
+
+exemple — avec une précision sans faille et ses
+
+qu’elles aient une manifestation physique, sous
+
+attaques de Maître à mains nues sont dévasta-
+
+forme de feu ou d’acide, par exemple.
+
+trices. Chaque attaque réussie inflige 1D6 dégâts
+
+Adepte	
+Réactive. Le personnage est robuste et peut effec-
+
+supplémentaires.
+
+Homme d’armes
+
+Un vrai guerrier porte une armure et a suivi un entraînement approprié pour se déplacer et combattre efficacement en la portant. C’est le cas chez les Ambriens,
+autant que les barbares, même si les guerriers portant
+les armures les plus lourdes se trouvent généralement
+parmi les troupes ambriennes. Qu’il s’agisse d’une armure
+de cuir ou d’acier, le Talent Homme d’armes octroie au
+personnage une protection accrue contre les coups et
+les tirs ennemis.
+
+tuer une deuxième tentative afin de se débarrasser
+des pouvoirs qui affectent sa volonté ou ses sens.
+Maître	
+Réactive. L’esprit du personnage contre-attaque
+face à quiconque essaie de l’affecter. Lorsque le
+personnage est victime d’une attaque mentale
+(en d’autres termes, les attaques modifiées par la
+Volonté) qui échoue, l’attaquant subit 1D6 dégâts
+qui ignorent la protection de l’Armure.
+
+Lancer puissant
+
+Certaines traditions et peuplades ont, parmi leurs représentants, des guerriers versés dans l’art des armes de
+jet depuis des générations. Le lancer de couteaux, par
+exemple, est très courant chez les voleurs et coupe-jarrets
+
+121
+
+des villes, tandis que dans les clans des forêts,
+nombre de guerriers sont équipés de haches de
+lancer ou de lances. En réalité, la plupart des guerriers barbares (en particulier au sein du clan de
+Zarek) utilisent fréquemment des armes de jet dans
+le cadre de leur tactique d’attaque au corps à corps,
+déchaînant une pluie d’acier sur leurs adversaires
+juste avant de fondre sur eux.
+Novice	
+Active. Le personnage a commencé à
+comprendre les subtilités des armes de
+jet. Les dégâts causés par ses armes de jet
+passent à 1D8.
+Adepte	
+Active. Le personnage peut effectuer
+deux lancers en une seule Action. Les deux
+attaques sont résolues séparément et
+
+(se référer à la page 132). Le mage ne subit
+plus de Corruption permanente lorsqu’il
+apprend des pouvoirs de niveau Maître
+appartenant à la tradition de la Magie.
+
+Maîtrise des armes d’hast
+
+Le personnage a été initié au maniement des armes
+d’hast. La lance est une arme simple, et tout le
+monde peut rapidement apprendre à apprécier
+les avantages que lui octroie sa longueur. C’est pour
+cette raison que les milices armées des plaines et
+des forêts sont souvent équipées de lances.
+Les connaissances avancées du personnage
+en matière d’armes d’hast prouvent qu’un simple
+manche de bois consolidé peut constituer une arme
+destructrice entre les mains d’un guerrier entraîné.
+
+peuvent viser la même cible ou deux cibles
+différentes. Le personnage peut également
+
+Novice	
+Passive. Les dégâts infligés par les armes
+
+utiliser des armes de mêlée comme des
+
+Longues augmentent d’un niveau et
+
+armes de jet, mais il ne peut lancer qu’une
+
+passent à 1D10 pour les lances et halle-
+
+arme de ce type par Action. Les dégâts de
+
+bardes et à 1D8 pour les bâtons.
+
+ce type d’attaque sont égaux aux dégâts de
+
+Réactive. Le personnage maîtrise la longue
+Adepte	
+
+base de l’arme de mêlée et incluent tous les
+
+portée de son arme. Il bénéficie d’une
+
+Talents passifs possédés par le personnage.
+
+Attaque gratuite contre tous les ennemis
+
+Maître	
+Active. Le personnage peut déclencher un
+
+qui se trouvent à sa portée en combat au
+
+triple lancer dévastateur et envoyer trois
+
+corps à corps, peu importe s’il s’agit du
+
+armes de jet en direction de ses ennemis
+
+personnage ou de son adversaire qui initie
+
+en direction d’une seule cible ou de cibles
+
+le combat. La seule exception étant lorsque
+
+multiples.
+
+l’ennemi est également équipé d’une arme
+
+Magie
+
+La Magie est enseignée par l’Ordo Magica et
+constitue une tradition dont les pratiquants sont
+initiés aux mystères du feu, au triomphe de la force
+de l’esprit sur la matière et aux labyrinthes des
+sens. Aux yeux des mages de l’Ordo Magica, ces
+phénomènes sont intimement liés.
+
+Longue, auquel cas, le personnage ne dispose alors pas d’Attaque gratuite.
+Réactive. Le personnage est un Maître des
+Maître	
+armes d’hast, il est capable de maintenir
+ses ennemis à distance. Le personnage peut
+utiliser l’Attaque gratuite d’une arme d’hast
+afin d’empêcher un ennemi de se rapprocher suffisamment pour lui permettre d’attaquer. Aussi longtemps que le personnage
+
+Novice	
+Spéciale. Le mage ne subit plus de Corrup-
+
+demeure incapable d’attaquer le person-
+
+mystiques de niveau Novice appartenant à
+
+nage avec une arme au corps à corps, que
+
+la tradition de la Magie, ni lorsqu’il en pra-
+
+les dégâts du personnage pénètrent ou non
+
+tique les rituels. Malgré cela, le personnage
+
+l’armure de l’ennemi.
+
+n’est pas protégé contre la Corruption tem-
+
+Maîtrise du bouclier
+
+poraire inhérente à l’utilisation de pouvoirs
+et de rituels de Magie.
+Adepte	
+Spéciale. Le mage ne subit plus de
+Corruption permanente lorsqu’il apprend
+des Pouvoirs magiques de niveau Adepte
+appartenant à la tradition de la Magie. Le
+mage Adepte a également assimilé les
+théories des pouvoirs et rituels de Magie,
+si bien qu’il ne subit plus qu’un point (1) de
+Corruption temporaire lorsqu’il les utilise.
+Maître	
+Spéciale. Le Maître en Magie possède une
+connaissance si complète des liens magiques qu’il peut, à chaque tour, effectuer
+un deuxième jet en cas d’échec lorsqu’il
+tente de créer un enchaînement magique
+
+122
+
+réussit à toucher son adversaire, ce dernier
+
+tion permanente en apprenant les Pouvoirs
+
+Le personnage a été entraîné à optimiser l’utilisation de son bouclier et également à l’employer
+comme une véritable arme. Le personnage peut,
+grâce à la protection de son bouclier, générer un
+élan qui renforce la puissance de ses attaques, ou
+bien utiliser son bouclier pour porter un coup. Il
+s’agit d’une combinaison efficace, ce qui explique
+sans doute pourquoi elle est aussi courante chez les
+barbares que chez les guerriers ambriens.
+La rondache, un bouclier léger habituellement
+utilisé par les archers, est trop légère pour être
+employée avec le Talent Maîtrise du bouclier. Le
+guerrier doit être équipé d’un bouclier solide en bois
+ou en acier afin de générer la puissance nécessaire.
+
+TALENTS
+
+13
+
+Novice	
+Passive. Les dégâts infligés par les armes
+tenues dans la main principale du personnage augmentent d’un niveau et passent
+à 1D10 si le personnage est équipé d’une
+arme à une main ou à 1D8 s’il est équipé
+d’une arme Courte. Au niveau Novice, la
+Maîtrise du bouclier du personnage lui
+permet d’employer plus efficacement
+son bouclier pour se protéger. Il bénéficie
+donc de +2 en Défense au lieu de l’habituel +1 inhérent à l’utilisation normale
+d’un bouclier.
+Adepte	
+Réactive. Le personnage a si bien appris
+à combiner arme et bouclier que chaque
+attaque réussie peut être suivie par une
+frappe du bouclier sur la même cible. Les
+dégâts de la frappe du bouclier sont de
+1D4, et si le personnage réussit un test
+[Force ← Force], la cible est également
+envoyée au sol.
+Maître	
+Réactive. Les dégâts de la frappe du bouclier passent à 1D8 et la cible est également
+envoyée au sol si le personnage réussit un
+test [Force ← Force].
+
+Medicus
+
+Le personnage maîtrise l’art de la guérison et
+constitue donc un atout convoité au sein de sa communauté, que ce soit pour empêcher les maladies de
+se propager, pour soigner les blessures des guerriers
+ou pour veiller à la bonne santé des classes dirigeantes. L’art de la guérison s’est développé parallèlement à l’alchimie, expliquant ainsi le grand
+nombre de guérisseurs qui possèdent également
+des connaissances en alchimie, tout particulièrement ceux qui officient loin de la civilisation, dans
+des régions où se procurer des remèdes chez un
+marchand bien achalandé est impossible.
+Un personnage possédant le Talent Medicus
+peut diagnostiquer et soigner des maladies, et
+identifier un poison à travers les symptômes qu’il
+provoque. Medicus offre également au personnage
+des connaissances en médecine légale qui peuvent
+s’avérer utiles lors de l’examen d’une scène de crime
+ou d’un cadavre.
+Novice	
+Active. Le personnage est un chirurgien
+habile et peut effectuer un test d’Astuce
+pour soigner un patient de 1D4 points
+d’Endurance ou 1D6 en utilisant un remède
+à base de plantes. Ce Talent ne peut être
+utilisé qu’une fois par patient et par jour.
+Adepte	
+Active. Le personnage est un Medicus
+reconnu. Grâce à la réussite d’un test
+d’Astuce, il peut soigner un patient de 1D6
+points d’Endurance ou 1D8 en utilisant un
+remède à base de plantes. Ce Talent ne
+peut être utilisé qu’une fois par patient et
+par jour.
+
+123
+
+La puissance
+défensive de la
+Maîtrise des armes
+d’hast
+Si vous désirez que
+
+Maître	
+Active. Le personnage est un Maître
+
+toute sa puissance sur une seule attaque.
+
+très étendu. Grâce à la réussite d’un test
+
+Une fois par tour, le personnage peut
+
+d’Astuce, il peut soigner un patient de 1D8
+
+effectuer une attaque au corps à corps
+
+points d’Endurance ou 1D10 en utilisant un
+
+dévastatrice qui inflige 1D8 dégâts supplé-
+
+remède à base de plantes. Un test échoué
+
+mentaires au lieu de 1D4.
+
+soigne malgré tout le patient d’une partie
+
+Pouvoir mystique
+
+votre personnage
+
+de son Endurance : 1D4 en utilisant le Talent
+
+possède une défense
+
+Medicus seul, 1D6 en y ajoutant un remède
+
+forte, Maîtrise des
+
+à base de plantes. Ce Talent ne peut être
+
+armes d’hast constitue
+
+utilisé qu’une fois par patient et par jour.
+
+une option intéressante. Le niveau Adepte
+octroie des Attaques
+gratuites contre tous
+les ennemis qui tentent
+de s’approcher du
+personnage, ce qui
+peut s’avérer très utile
+dans un combat contre
+plusieurs adversaires.
+Le niveau Maître de
+Maîtrise des armes
+
+Meneur né
+
+Beaucoup doivent batailler pour devenir un meneur,
+tandis que certains sont choisis naturellement par
+ceux qu’ils sont destinés à diriger. S’il possède ce
+Talent, le personnage est un meneur inspirant,
+charismatique et éloquent que les autres écouteront
+et suivront parfois jusqu’à la mort.
+Hors des situations de combat, le Talent Meneur
+né peut être utile pour prendre le commandement
+d’un groupe d’étrangers, organiser une milice ou
+l’équivalent.
+
+d’hast est l’un des plus
+puissants Talents lorsqu’il s’agit de maintenir
+
+Maître	
+Active. Le personnage parvient à focaliser
+
+Medicus et possède un savoir médical
+
+Novice	
+Passive. La forte personnalité du personnage lui permet d’utiliser Persuasion au lieu
+
+les ennemis à distance.
+
+de Volonté, par exemple lorsqu’il manie des
+
+Notez néanmoins
+
+pouvoirs mystiques. Cela exclut toutefois le
+
+qu’un adversaire équi-
+
+calcul du Seuil de Corruption.
+
+pé d’une arme d’hast
+
+Adepte	
+Active. Le personnage peut désigner une
+
+annule plus ou moins
+
+créature ou un objet comme cible princi-
+
+les effets du Talent
+
+pale pour ses alliés et lui-même, pendant
+
+Maîtrise des armes
+
+toute la durée de la scène. Tous les alliés
+
+d’hast.
+
+qui attaquent cette cible lui infligent 1D4
+dégâts supplémentaires. Changer de cible
+nécessite une nouvelle Action active de la
+part du Meneur né.
+Maître	
+Active. Le Meneur né adresse un discours
+
+Le personnage fait partie des êtres qui ont accès
+aux Pouvoirs mystiques. Ces pouvoirs peuvent
+provenir d’un don naturel, d’une malédiction, avoir
+été acquis grâce à de longues études fastidieuses
+ou à travers une foi et un dévouement profond.
+Les pouvoirs du personnage peuvent appartenir
+à une tradition mystique (Magie, Conjuration,
+Théurgie ou Sorcellerie), qui possèdent toutes des
+avantages et des inconvénients. Le personnage peut
+également être un Mystique sans tradition et avoir
+élaboré une théorie personnelle sur la provenance
+de ces pouvoirs et leur raison d’être. Pour plus de
+précisions, se référer au Chapitre 14 : Traditions
+mystiques (page 128).
+Chaque Pouvoir mystique possède son propre
+Talent et s’acquiert séparément. Pour une description précise des différents Pouvoirs mystiques,
+se référer au Chapitre 15 : Pouvoirs mystiques
+(page 130).
+Le personnage subit un point (1) de Corruption
+permanente à chaque fois qu’il apprend un nouveau Pouvoir mystique. La Corruption peut être
+réduite si le pouvoir est issu d’une tradition à
+laquelle appartient le personnage. Le personnage
+est également affligé de 1D4 points de Corruption
+temporaire à chaque fois qu’il utilise ce pouvoir.
+Une fois encore, la Corruption peut être réduite si
+le pouvoir est considéré comme issu d’une tradition
+à laquelle appartient le personnage (se référer à
+Ombre et Corruption, page 178).
+
+enflammé à ses alliés, ce qui leur permet
+
+Nombre d’Attaques
+gratuites et Armes
+longues
+• La qualité Long
+permet une Attaque
+gratuite à chaque tour
+contre un seul ennemi
+à portée.
+
+d’utiliser sa Persuasion au lieu de leur Volonté pendant toute la durée de la scène.
+
+Poigne de fer
+
+Le personnage est entraîné à utiliser tout le potentiel
+de sa force physique sur une cible en combat au corps
+à corps. Chevaliers, membres des Enragés et autres
+guerriers lourds, comptent uniquement sur leur
+puissance physique au combat et laissent à d’autres
+le soin de faire preuve de finesse et de précision.
+
+• Avec le Talent Maîtrise
+des Armes d’Hast,
+cette limite est annulée
+
+Novice	
+Passive. Le personnage peut utiliser tout
+le potentiel de sa force physique et, par
+
+et le porteur d’une
+
+conséquent se servir de Force au lieu de
+
+Arme longue peut
+
+Précision lors d’une attaque au corps à
+
+effecter plus d’une
+attaque contre les
+
+corps.
+Passive. Les attaques au corps à corps du
+Adepte	
+
+ennemis se trouvant à
+
+personnage infligent désormais 1D4 dégâts
+
+portée.
+
+supplémentaires.
+
+124
+
+Novice	
+Spéciale. Le personnage maîtrise le niveau
+Novice du pouvoir.
+Adepte	
+Spéciale. Le personnage maîtrise le niveau
+Adepte du pouvoir.
+Maître	
+Spéciale. Le personnage maîtrise le niveau
+Maître du pouvoir.
+
+Puissance à deux mains
+
+Les chevaliers d’Ambria et les Enragés de Karvosti
+sont équipés d’acier des pieds à la tête et ont réalisé
+qu’avec de telles armures, ils pouvaient se focaliser sur le meilleur moyen d’infliger des dégâts
+considérables.
+Les lourdes armes à deux mains sont brandies avec
+aisance par les mains calleuses du personnage et
+peuvent avoir un effet incroyablement destructeur
+sur toutes sortes de cibles. Les armes Lourdes sont
+extrêmement efficaces contre des adversaires en
+armure lourde.
+
+TALENTS
+
+Novice	
+Passive. Les dégâts infligés par les armes
+Lourdes passent à 1D12.
+Adepte	
+Réactive. Le personnage maîtrise l’utilisa-
+
+Novice	
+Spéciale. Le personnage a appris à pratiquer un (1) rituel. Le rituel peut appartenir
+à n’importe quelle tradition mystique, mais
+
+AINSI PARLA
+
+tion de son arme, par conséquent, lorsque
+
+le personnage doit avoir accès au rituel
+
+AROALÉTA
+
+l’une de ses attaques ne touche pas sa
+
+afin de l’apprendre et de le mémoriser. Ce
+
+cible, il peut utiliser le retour de balancier
+
+savoir peut avoir été acquis auprès d’un
+
+de son arme pour tenter à nouveau de
+
+instructeur appartenant à la même organi-
+
+toucher sa cible. Le personnage effectue
+
+sation que le personnage. Il peut aussi pro-
+
+un nouveau lancer d’attaque qui inflige 1D8
+
+venir d’un codex découvert dans les ruines
+
+dégâts s’il réussit.
+
+de Symbaroum ou avoir été enseigné par
+
+Maître	
+Active. Une arme lourde entre les mains
+d’un Maître devient une arme de destruction d’armure. Lorsque l’attaque du Maître
+
+un autre Ritualiste en remerciement d’un
+service rendu.
+Adepte	
+Spéciale. Le personnage a appris à prati-
+
+touche sa cible, elle ignore totalement la
+
+quer deux rituels supplémentaires (trois au
+
+protection de cette dernière.
+
+total), appartenant également à n’importe
+
+Récupération
+
+Les Manteaux noirs et les Mystiques ont développé
+des techniques méditatives qui leur octroient de
+surprenantes capacités physiologiques. Le personnage est capable de puiser dans ses réserves
+d’énergie avec une discipline quasi magique afin de
+régénérer son corps, et ce, même en plein combat.
+
+13
+
+quelle tradition mystique, mais soumis aux
+mêmes conditions que celles décrites dans
+le niveau Novice.
+Maître	
+Spéciale. Le personnage a appris à pratiquer trois rituels supplémentaires (six au
+total). Tout comme aux niveaux précédents,
+
+« … et celui que l’on
+appelait “le premier
+parmi ses pairs” en
+était cependant le
+plus rapide, le plus
+fort et le plus doué
+au maniement de
+la lance ; il était
+Maiesticar, le pilleur
+qui plongea Fléau
+des Araignées dans
+le cœur de leur Roi
+et le traversa de
+part en part. »
+
+le Maître Ritualiste n’est pas tenu de se
+limiter aux rituels d’une seule tradition
+mystique, mais doit avoir accès au rituel
+
+Novice	
+Active. Grâce à la réussite d’un test de
+Volonté, le personnage récupère 1D4 Endurance. Il peut effectuer plusieurs tentatives,
+mais l’utilisation est limitée à une seule
+réussite par jour.
+Adepte	
+Active. Similaire au niveau Novice, mais le
+personnage récupère 1D6 Endurance.
+Active. Similaire au niveau Adepte, mais le
+Maître	
+personnage récupère 1D8 Endurance.
+
+Ritualiste
+
+Le personnage a appris à canaliser ses pouvoirs
+mystiques à travers des rituels — de puissants,
+mais excessivement longs rites magiques. Ce savoir
+peut avoir été acquis auprès d’un instructeur ou
+par l’étude autodidacte d’un codex rituel.
+Le personnage subit un point (1) de Corruption
+permanente à chaque fois qu’il apprend un nouveau rituel à moins que ce rituel ne soit issu d’une
+tradition mystique pratiquée par le personnage
+(Magie, Conjuration, Théurgie ou Sorcellerie). Dans
+ce cas, le personnage est épargné par la Corruption.
+Lors de la pratique de rituels, le personnage subit
+1D4 points de Corruption temporaire si le rituel n’est
+pas issu d’une tradition mystique qu’il maîtrise.
+La pratique de rituels appartenant à une tradition
+maîtrisée par le personnage n’inflige qu’un point
+(1) de Corruption temporaire.
+Le Talent Ritualiste permet au personnage de
+reconnaître les rituels pratiqués en examinant les
+symboles et composants restants sur le lieu de son
+utilisation, et d’en déduire ainsi les effets du rituel
+pratiqué, même s’il ne le maîtrise pas lui-même.
+
+afin de l’apprendre et de le mémoriser.
+
+Sixième sens
+
+Au cours d’un déplacement à travers une forêt
+sombre ou un tunnel souterrain, la vue ne constitue
+plus un allié si fiable que cela. Allumer une lanterne
+ou une torche est susceptible d’attirer des dangers.
+Par conséquent, l’explorateur doit apprendre à se
+fier à ses autres sens. Un entraînement assidu peut
+permettre d’éveiller ces autres sens et de les aiguiser jusqu’à ce qu’ils soient inquiétants. Le Talent
+Sixième sens octroie au personnage des capacités
+uniques lorsqu’il se bat à distance ou s’il se trouve
+dans une situation qui ne lui permet pas de se fier
+à sa vue.
+Un personnage doté du Talent Sixième sens peut,
+dans un contexte serein, manœuvrer librement
+malgré une faible luminosité et conserver son sens
+de l’orientation dans le noir total, mais à une vitesse
+équivalente à un quart de sa vitesse normale en
+plein jour.
+Novice	
+Passive. Le personnage possède une
+grande intuition, ce qui lui permet d’utiliser Vigilance au lieu de Précision lorsqu’il
+attaque avec une arme à distance.
+Adepte	
+Passive. L’intuition du personnage est
+encore améliorée et il peut désormais
+utiliser Vigilance au lieu d’Agilité pour l’ordre
+d’Initiative et pour calculer sa Défense.
+Maître	
+Passive. Le personnage peut se déplacer
+et combattre sans entrave lorsqu’il est
+aveuglé ou dans le noir total.
+
+125
+
+Sorcellerie
+
+La tradition de la Sorcellerie puise ses origines
+dans les esprits sauvages et les racines profondes de
+Davokar. Depuis des générations, cette tradition se
+transmet entre les sorcières qui, aux côtés des chefs
+de clans, ont mené les peuples des forêts aussi bien
+à travers leurs victoires que leurs malheurs. Il ne
+fait aucun doute que ce sont les pouvoirs primitifs
+de la Sorcellerie qui permettent aux clans barbares
+de survivre dans les forêts de Davokar.
+Novice	
+Spéciale. La sorcière a été initiée aux enseignements de la Sorcellerie et sait comment
+résister à ses éléments les plus sombres. La
+sorcière ne subit plus de Corruption permanente en apprenant les Pouvoirs mystiques
+
+Adepte	
+Passive. Le personnage maîtrise l’art de la
+posture défensive, ce qui lui permet d’utiliser Astuce au lieu d’Agilité lors du calcul de
+sa valeur de Défense.
+Maître	
+Passive. Le personnage est un maître des
+tactiques martiales offensives, ce qui lui
+permet d’utiliser Astuce au lieu de Précision
+lorsqu’il attaque avec une arme autre
+qu’une arme lourde.
+
+Théurgie
+
+La Théurgie est l’enseignement mystique pratiqué
+par les prêtres théurges de l’Église de Prios. La
+Théurgie est la doctrine de la flamme intérieure ;
+l’étincelle de l’âme y est considérée comme un reflet
+du divin et de la lumière créatrice du soleil.
+
+de niveau Novice appartenant à la tradition
+de la Sorcellerie, ni lorsqu’elle en pratique
+
+Novice	
+Spéciale. Le théurge ne subit plus de Cor-
+
+les rituels. Malgré cela, le personnage n’est
+
+ruption permanente lorsqu’il apprend des
+
+pas protégé contre la Corruption tempo-
+
+pouvoirs de niveau Novice appartenant à la
+
+raire inhérente à l’utilisation de pouvoirs et
+
+tradition de la Théurgie ni lorsqu’il en pra-
+
+de rituels de Sorcellerie.
+
+tique les rituels. Malgré cela, le personnage
+
+Adepte	
+Spéciale. La sorcière ne subit plus de
+
+n’est pas protégé contre la Corruption temporaire inhérente à l’utilisation de pouvoirs
+
+Corruption permanente lorsqu’elle apprend
+
+et de rituels théurgiques.
+
+des pouvoirs de niveau Adepte appartenant
+à la tradition de la Sorcellerie. La sorcière
+
+Adepte	
+Spéciale. Le théurge ne subit plus de Cor-
+
+Adepte a également appris à dompter les
+
+ruption permanente lorsqu’il apprend des
+
+pouvoirs et les rituels de création de la
+
+pouvoirs de niveau Adepte appartenant à
+
+terre, du sang et des esprits, si bien qu’elle
+
+la tradition de la Théurgie. Les fondements
+
+ne subit plus qu’un point (1) de Corruption
+
+de la foi du Théurge Adepte sont suffisam-
+
+temporaire lorsqu’elle les utilise.
+
+ment solides pour qu’il ne subisse plus
+
+Maître	
+Spéciale. La sorcière ne subit plus de Cor-
+
+qu’un point (1) de Corruption temporaire
+
+ruption permanente lorsqu’ elle apprend
+
+lors de l’utilisation de pouvoirs et de rituels
+
+des pouvoirs de niveau Maître appartenant
+à la tradition de la Sorcellerie.
+
+théurgiques.
+Maître	
+Spéciale. Le théurge a atteint un tel niveau
+de compréhension de l’essence de ses
+
+Tacticien
+
+Aux yeux des Ambriens, le savoir représente l’une
+des plus grandes vertus. Il n’est pas étonnant de
+constater que les érudits ambriens ont méticuleusement étudié diverses petites escarmouches et actes
+d’autodéfense afin de déterminer si les tactiques
+martiales pouvaient être adaptées à plus petite
+échelle et à différents types de combattants. Il en
+résulte un art de la guerre dominé par les théories
+et les calculs qui, avec le temps, peuvent anéantir
+les adversaires les plus agressifs. Le personnage a
+été initié à cette doctrine martiale traditionnelle.
+Un tacticien confirmé peut utiliser ce Talent
+pour analyser une approche tactique et en déduire
+ses forces et ses faiblesses. Cela peut être appliqué
+dans un but offensif face à une formation hostile
+ou défensive afin d’établir une défense efficace.
+
+pouvoirs divins qu’il soigne 1D4 supplémentaires lorsqu’il utilise des pouvoirs
+sacrés de soin, y compris ceux qui blessent
+les Abominations et les Morts-vivants. En
+outre, le théurge ne subit plus de Corruption permanente lorsqu’il apprend des
+pouvoirs de niveau Maître appartenant à la
+tradition de la Théurgie.
+
+Tireur d’élite
+
+Les tireurs d’élite ont naturellement leur place
+dans toutes les armées, troupes d’éclaireurs et
+groupes de brigands. Le personnage peut infliger
+de sérieux dégâts à ses ennemis à l’aide d’un arc
+ou d’une arbalète, dans l’espoir de les éliminer ou
+tout au moins s’assurer qu’ils n’atteignent pas les
+alliés du personnage équipés pour le combat au
+corps à corps.
+
+Novice	
+Passive. Le personnage a étudié les
+tactiques martiales et a assimilé leurs
+
+126
+
+Novice
+
+P
+ assive. Les compétences du personnage
+
+principes fondamentaux. Le personnage
+
+lui permettent de voir les dégâts infligés par
+
+peut utiliser Astuce au lieu d’Agilité lors du
+
+son arc ou arbalète passer respectivement
+
+calcul de l’Initiative.
+
+de 1D8 et 1D10 à 1D10 et 1D12.
+
+TALENTS
+
+13
+
+Adepte	
+Active. La précision du personnage lui permet d’ajouter un effet paralysant à ses projectiles. L’attaque inflige les dégâts habituels
+et, si la cible est blessée, le personnage peut
+bénéficier d’un test [Précision ← Force] à
+chaque fois que la cible tente de se déplacer.
+Un test réussi signifie que la cible ne peut
+pas se déplacer. L’effet paralysant s’évanouit
+aussitôt que le personnage rate un test (la
+cible peut recommencer à se déplacer).
+Maître	
+Active. Les projectiles du Maître Tireur
+d’élite transpercent les armures. Le tir atteint un point faible et ignore totalement le
+score de protection de l’Armure de la cible.
+
+Vision de l’Ombre
+
+Au travers des Ombres qui entourent les créatures,
+lieux et objets, un personnage possédant le Talent
+Vision de l’Ombre est capable d’observer les conflits
+les plus profonds de ce monde. Ouvrir son esprit afin
+d’examiner le monde des Ombres peut permettre
+d’obtenir des informations d’une valeur inestimable, mais comporte des risques considérables :
+plus l’esprit est ouvert, plus la compréhension est
+profonde et plus le risque d’être affecté par les
+ténèbres du monde est grand — si grand, en réalité,
+que les maîtres de cette discipline n’utilisent que
+rarement tout le potentiel de leur aptitude.
+Comme cela a été expliqué précédemment,
+la couleur des Ombres peut procurer au personnage des indices quant à l’allégeance spirituelle
+de la créature inspectée (se référer à Ombre et
+Corruption, page 178). Le Meneur de Jeu contrôle
+les nuances et les pouvoirs de l’Ombre et décrit ce
+que le personnage voit grâce à sa Vision de l’Ombre.
+Novice	
+Gratuite. Le personnage peut effectuer
+une Action gratuite pour faire un test
+[Vigilance ← Discrétion] afin de tenter de
+discerner l’Ombre dominante d’une créature, d’un lieu ou d’un objet. Chacune de
+ces tentatives force le personnage à subir
+1D4 points de Corruption temporaire.
+Adepte	
+Gratuite. Le personnage possède la grande
+clairvoyance d’un Adepte concernant les
+auras et les phénomènes mystiques. Vision
+de l’Ombre révèle désormais toutes les
+Ombres de la cible inspectée, mais pas leurs
+forces respectives. Le personnage subit 1D6
+points de Corruption temporaire à chaque
+fois qu’il tente de discerner les Ombres
+d’une créature, d’un lieu ou d’un objet.
+Maître	
+Gratuite. Le personnage a atteint le niveau
+de clairvoyance d’un Maître et peut désormais discerner toutes les Ombres et leurs
+forces respectives. Le personnage subit 1D8
+points de Corruption temporaire à chaque
+fois qu’il tente de discerner les Ombres
+d’une créature, d’un lieu ou d’un objet.
+
+127
+
+
