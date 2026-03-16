@@ -1,3 +1,29 @@
+{{- if not .IsHome -}}
+<nav class="breadcrumb" aria-label="Fil d'Ariane">
+  {{- $crumbs := slice . -}}
+  {{- $current := . -}}
+  {{- range seq 10 -}}
+    {{- with $current.Parent -}}
+      {{- if not .IsHome -}}
+        {{- $crumbs = $crumbs | append . -}}
+      {{- end -}}
+      {{- $current = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $reversed := slice -}}
+  {{- range seq (len $crumbs) -}}
+    {{- $reversed = $reversed | append (index $crumbs (sub (len $crumbs) .)) -}}
+  {{- end -}}
+  {{- range $i, $p := $reversed -}}
+    {{- if $i }}<span class="breadcrumb-sep">/</span>{{ end -}}
+    {{- if eq $i (sub (len $reversed) 1) -}}
+      <span class="breadcrumb-current">{{ $p.Title }}</span>
+    {{- else -}}
+      <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+    {{- end -}}
+  {{- end -}}
+</nav>
+{{- end -}}
 <header class="book-page-header">
   <h1>{{ .Title }}</h1>
   {{ with .Params.subtitle }}<p class="book-page-subtitle">{{ . }}</p>{{ end }}

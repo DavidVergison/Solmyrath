@@ -1,1 +1,89 @@
 <meta name="robots" content="noindex, nofollow">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+<style>
+.site-header {
+  position: relative;
+  height: 140px;
+  overflow: hidden;
+  z-index: 2;
+  border-bottom: 2px solid rgba(180, 140, 80, 0.3);
+}
+
+.site-header-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center 40%;
+  filter: brightness(0.45) saturate(1.2);
+}
+
+.site-header-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    135deg,
+    rgba(15, 10, 25, 0.85) 0%,
+    rgba(30, 18, 40, 0.6) 40%,
+    rgba(40, 25, 15, 0.5) 70%,
+    rgba(20, 12, 30, 0.75) 100%
+  );
+}
+
+.site-header-content {
+  position: relative;
+  z-index: 1;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 2rem;
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+.site-title {
+  font-family: 'Cinzel', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #e8d5b0 !important;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none !important;
+  text-shadow:
+    0 0 30px rgba(200, 160, 80, 0.4),
+    0 2px 4px rgba(0, 0, 0, 0.6);
+  line-height: 1.2;
+  cursor: pointer !important;
+  transition: color 0.2s ease;
+}
+
+.site-title:hover {
+  color: #f5e6c8 !important;
+}
+
+.site-tagline {
+  font-family: 'Crimson Pro', serif;
+  font-size: 0.85rem;
+  font-weight: 300;
+  color: rgba(200, 180, 150, 0.6);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-top: 0.15rem;
+}
+
+@media screen and (max-width: 56rem) {
+  .site-header {
+    height: 100px;
+  }
+  .site-title {
+    font-size: 1.4rem;
+  }
+  .site-header-content {
+    padding: 0 1rem;
+  }
+}
+</style>

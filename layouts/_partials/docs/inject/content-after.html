@@ -1,3 +1,30 @@
+{{- /* Banner navigation for section pages and home page */ -}}
+{{- $children := false -}}
+{{- if .IsHome -}}
+  {{- $docs := .Site.GetPage "docs" -}}
+  {{- with $docs -}}{{ $children = .Pages }}{{- end -}}
+{{- else if .IsSection -}}
+  {{- $children = .Pages -}}
+{{- end -}}
+{{- if $children -}}
+  {{- $fallback := resources.Get "ban.png" -}}
+  <nav class="section-banners">
+    {{- range $children -}}
+    {{- $ban := .Resources.GetMatch "ban.png" -}}
+    {{- if not $ban -}}{{ $ban = $fallback }}{{- end -}}
+    <a href="{{ .RelPermalink }}" class="section-banner-link">
+      {{- with $ban -}}
+      <img src="{{ .RelPermalink }}" alt="" class="section-banner-img" />
+      {{- end -}}
+      <span class="section-banner-title">{{ .Title }}</span>
+      {{- with .Description -}}
+      <span class="section-banner-desc">{{ . }}</span>
+      {{- end -}}
+    </a>
+    {{- end -}}
+  </nav>
+{{- end -}}
+
 {{- $gallery := .Resources.Match "galery/*" -}}
 {{- if $gallery -}}
 <div class="gallery-carousel">

@@ -4,6 +4,6 @@ weight: 20
 bookCollapseSection: true
 ---
 
-# Univers
+L'histoire et les secrets de Solmyrath — un monde où la magie est née d'une météorite primordiale, où le voile entre les réalités a été déchiré, et où des peuples entiers ont été déversés par les portails.
 
-Le lore, l'histoire et la géographie du monde d'Isekai YZE.
+Cette section couvre la genèse du monde, les grandes ères historiques, la géographie, les factions, et les mystères que seul le Maître de Jeu connaît.

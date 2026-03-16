@@ -1,16 +1,63 @@
+// Site header offset — push fixed sidebar/toc below the header
+.book-menu .book-menu-content,
+.book-toc .book-toc-content {
+  top: 140px;
+}
+
+@media screen and (max-width: 56rem) {
+  .book-menu .book-menu-content,
+  .book-toc .book-toc-content {
+    top: 100px;
+  }
+}
+
+// Breadcrumb
+.breadcrumb {
+  font-family: 'Crimson Pro', serif;
+  font-size: 0.85rem;
+  margin-bottom: 0.5rem;
+  opacity: 0.55;
+  letter-spacing: 0.01em;
+
+  a {
+    text-decoration: none;
+    color: inherit;
+
+    &:hover {
+      color: #c9a85c;
+      text-decoration: none;
+    }
+  }
+}
+
+.breadcrumb-sep {
+  margin: 0 0.4rem;
+  opacity: 0.4;
+}
+
+.breadcrumb-current {
+  font-weight: 600;
+}
+
 // Page header (title + subtitle)
 .book-page-header {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.75rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(180, 140, 80, 0.15);
 
   h1 {
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+    letter-spacing: 0.04em;
     margin-bottom: 0.25rem;
   }
 }
 
 .book-page-subtitle {
   margin: 0;
-  font-size: 1rem;
-  opacity: 0.6;
+  font-family: 'Crimson Pro', serif;
+  font-size: 1.05rem;
+  opacity: 0.55;
   font-style: italic;
 }
 
@@ -83,4 +130,131 @@
 
 .gallery-next {
   right: 0;
+}
+
+// Section intro text (intermediate pages)
+.book-kind-section > .markdown.book-article {
+  font-family: 'Crimson Pro', serif;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--body-font-color);
+  opacity: 0.85;
+  max-width: 42rem;
+
+  p:first-child {
+    font-size: 1.15rem;
+  }
+}
+
+// Section banner navigation
+.section-banners {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 2rem;
+}
+
+.section-banner-link {
+  position: relative;
+  display: block;
+  border-radius: 6px;
+  overflow: hidden;
+  text-decoration: none !important;
+  color: #f0e4cc;
+  height: 140px;
+  background: #12101a;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  border: 1px solid rgba(180, 140, 80, 0.1);
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow:
+      0 8px 24px rgba(0, 0, 0, 0.5),
+      0 0 0 1px rgba(180, 140, 80, 0.2);
+  }
+
+  // Dark gradient overlay for text readability
+  &::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(8, 6, 14, 0.92) 0%,
+      rgba(8, 6, 14, 0.6) 40%,
+      rgba(8, 6, 14, 0.15) 70%,
+      transparent 100%
+    );
+    pointer-events: none;
+    transition: background 0.3s ease;
+  }
+
+  &:hover::after {
+    background: linear-gradient(
+      to bottom,
+      rgba(8, 6, 14, 0.85) 0%,
+      rgba(8, 6, 14, 0.4) 35%,
+      rgba(8, 6, 14, 0.15) 60%,
+      rgba(8, 6, 14, 0.5) 100%
+    );
+  }
+}
+
+.section-banner-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease, filter 0.4s ease;
+  filter: saturate(0.9) brightness(0.95);
+
+  .section-banner-link:hover & {
+    transform: scale(1.04);
+    filter: saturate(1.1) brightness(1);
+  }
+}
+
+.section-banner-title,
+.section-banner-desc {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: 0 1.25rem;
+  z-index: 1;
+}
+
+.section-banner-title {
+  bottom: 0.75rem;
+  font-family: 'Cinzel', serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: #e8d5b0;
+  text-shadow:
+    0 1px 3px rgba(0, 0, 0, 0.9),
+    0 0 20px rgba(0, 0, 0, 0.6);
+  transition: bottom 0.3s ease, top 0.3s ease;
+}
+
+.section-banner-desc {
+  bottom: 0;
+  font-family: 'Crimson Pro', serif;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: rgba(200, 180, 150, 0.9);
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  padding-bottom: 0.75rem;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+.section-banner-link:hover .section-banner-title {
+  bottom: auto;
+  top: 0.75rem;
+}
+
+.section-banner-link:hover .section-banner-desc {
+  opacity: 1;
+  transform: translateY(0);
 }

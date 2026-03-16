@@ -1,0 +1,41 @@
+{
+  "manuel_des_joueurs": {
+    "positive": "A dark fantasy anime panoramic banner illustration in shonen manga style, ultra-wide horizontal format. A sweeping vista showing a massive glowing portal arch made of ancient carved stone, splitting the composition in two — on the left, a modern cityscape fading into mist, on the right, a vast dark fantasy landscape with towering mountains and a distant fortress under dramatic skies. Scattered runes float in the air around the portal's edge, glowing amber and violet. The lighting is dramatic and atmospheric, warm golden light spilling from the portal contrasting with the cool blue-grey tones of both worlds. The mood is epic and inviting — a threshold between worlds. No characters visible, only the landscape and the portal.",
+    "negative": ""
+  },
+
+  "manuel_des_joueurs_lignee": {
+    "positive": "A dark fantasy anime panoramic banner illustration in shonen manga style, ultra-wide horizontal format. A massive ancient tree of life carved and painted as a glowing mural on a dark stone wall, its branches spreading across the entire frame. At the ends of the largest branches, small detailed portraits are set into the bark like illuminated medallions — a bearded dwarf with a stern gaze, a pointed-eared elf with cold silver eyes, a human warrior with warm features, and a fox-eared therian woman with amber eyes and flowing red hair. Smaller branches bear dozens of faded, indistinct portraits suggesting countless other lineages. The tree's trunk glows faintly with golden sap-like light running through carved veins. Warm amber torchlight illuminates the mural from below, casting the upper branches into soft shadow. The mood is ancestral and epic, a living record of all peoples.",
+    "negative": ""
+  },
+
+  "manuel_des_joueurs_occupation": {
+    "positive": "A dark fantasy anime panoramic banner illustration in shonen manga style, ultra-wide horizontal format. A long wooden workbench stretching across the frame, lit by multiple oil lamps casting warm pools of amber light. On the bench, an array of profession tools arranged like a still life — a sword half-forged on an anvil, an open leather-bound spellbook with glowing pages, a lute with a broken string, a set of lockpicks on dark velvet, herbalist vials with colored liquids, and a cartographer's map with ink still wet. The background is a shadowed workshop interior with stone walls. The mood is industrious and rich with possibility. Deep warm lighting with sharp shadows.",
+    "negative": ""
+  },
+
+  "manuel_des_joueurs_ecoles_de_magie": {
+    "positive": "A dark fantasy anime panoramic banner illustration in shonen manga style, ultra-wide horizontal format. A grand arcane library seen from a low angle, with towering shelves of ancient tomes receding into shadow on both sides. In the center, a stone pedestal holds an open grimoire from which streams of magical energy radiate outward in distinct colored currents — deep blue for water, burning amber for fire, emerald for nature, violet for arcane, silver-white for spirit. The magical streams arc across the ceiling like an aurora. Dust motes and magical particles float in the air. The lighting comes entirely from the magical energies, casting the library in shifting multicolored light against deep black shadows.",
+    "negative": ""
+  },
+
+  "manuel_des_joueurs_talents": {
+    "positive": "A dark fantasy anime panoramic banner illustration in shonen manga style, ultra-wide horizontal format. A dramatic training ground at dusk, seen from above at a slight angle. The ground is marked with worn combat circles and practice targets. Across the wide frame, ghostly afterimages in translucent blue-white show different combat and skill techniques frozen in motion — a sword slash arc, an acrobatic leap, a shield brace, a precise arrow trajectory, a meditation pose with energy ripples. The afterimages glow against the darkening sky. Stone pillars frame the edges, covered in carved technique diagrams. The mood is disciplined and powerful, amber sunset light mixing with the cool glow of the skill phantoms.",
+    "negative": ""
+  },
+
+  "manuel_du_maitre": {
+    "positive": "A dark fantasy anime panoramic banner illustration in shonen manga style, ultra-wide horizontal format. A vast overhead view of a game master's table in deep shadow, lit by a single dramatic candle cluster at center. On the dark wooden surface: an unrolled world map with hand-drawn continents and sea monsters, scattered polyhedral dice catching the candlelight, miniature figurines casting long shadows, handwritten notes with red ink annotations, and a half-visible leather-bound journal. Behind the table, a massive dark curtain suggests hidden secrets beyond. The lighting is intimate and conspiratorial — warm amber candlelight against consuming darkness. The mood is one of secret knowledge and controlled revelation.",
+    "negative": ""
+  },
+
+  "manuel_du_maitre_regles": {
+    "positive": "A dark fantasy anime panoramic banner illustration in shonen manga style, ultra-wide horizontal format. A close-up view of an ancient stone tablet stretching across the frame, deeply carved with geometric symbols and interconnected diagrams resembling game mechanics — circles connected by lines, numerical sequences in runic script, and flowchart-like patterns. The tablet is cracked and weathered but the carvings glow faintly with a steady golden light, as if the rules themselves hold power. Dark moss grows in the deeper cracks. The background is pure shadow. A single beam of cold white light falls diagonally across the tablet from above. The mood is authoritative and foundational — laws carved in stone.",
+    "negative": ""
+  },
+
+  "manuel_du_maitre_univers": {
+    "positive": "A dark fantasy anime panoramic banner illustration in shonen manga style, ultra-wide horizontal format. A breathtaking panoramic landscape of Solmyrath seen from a high mountain pass. The vista stretches across the entire frame — on the far left, dark volcanic peaks with glowing lava veins, transitioning through dense ancient forests with canopy mist, past a walled city on a river catching golden sunset light at center, continuing through rolling grasslands dotted with standing stones, and ending on the far right with a stormy coastline where massive waves crash against cliffs. The sky shifts from dark storm clouds on the left to golden sunset at center to starry twilight on the right, suggesting the vastness and diversity of the world. Atmospheric perspective creates depth with each zone fading slightly into haze.",
+    "negative": ""
+  }
+}
