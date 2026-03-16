@@ -9,7 +9,18 @@
   <input type="checkbox" class="hidden toggle" id="toc-control" />
 
   <header class="site-header">
+    {{- $banner := resources.Get "site-banner.png" -}}
+    {{- if $banner -}}
+      {{- $processed := partial "img/process.html" (dict "img" $banner "width" 1600 "height" 400 "method" "Fill" "quality" 85) -}}
+    <div class="site-header-bg">
+      <picture>
+        <source srcset="{{ $processed.webp.RelPermalink }}" type="image/webp">
+        <img src="{{ $processed.fallback.RelPermalink }}" alt="" class="site-header-bg-img" loading="eager">
+      </picture>
+    </div>
+    {{- else -}}
     <div class="site-header-bg" style="background-image: url('/images/banner.png')"></div>
+    {{- end -}}
     <div class="site-header-overlay"></div>
     <div class="site-header-content">
       <a href="/" class="site-title">Solmyrath</a>

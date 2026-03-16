@@ -7,7 +7,7 @@
         {{- $portrait := $page.Resources.GetMatch "portrait.*" -}}
         {{- if $portrait -}}
           <div class="book-toc-portrait">
-            <img src="{{ $portrait.RelPermalink }}" alt="Portrait — {{ $page.Title }}" />
+            {{- partial "img/picture.html" (dict "img" $portrait "alt" (printf "Portrait — %s" $page.Title) "width" 400 "format" "png") -}}
           </div>
         {{- end -}}
       {{- end -}}

@@ -15,6 +15,14 @@ disablePathToLower = true
 [markup.highlight]
   style = 'base16-snazzy'
 
+[imaging]
+  quality = 80
+  resampleFilter = "Lanczos"
+  hint = "photo"
+
+[imaging.exif]
+  disableLatLong = true
+
 [params]
   BookTheme = 'auto'
   BookSection = 'docs'

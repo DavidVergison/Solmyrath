@@ -14,7 +14,7 @@
     {{- if not $ban -}}{{ $ban = $fallback }}{{- end -}}
     <a href="{{ .RelPermalink }}" class="section-banner-link">
       {{- with $ban -}}
-      <img src="{{ .RelPermalink }}" alt="" class="section-banner-img" />
+      {{- partial "img/picture.html" (dict "img" . "alt" "" "class" "section-banner-img" "width" 1200 "height" 300 "method" "Fill" "loading" "eager") -}}
       {{- end -}}
       <span class="section-banner-title">{{ .Title }}</span>
       {{- with .Description -}}
@@ -30,8 +30,9 @@
 <div class="gallery-carousel">
   <div class="gallery-track">
     {{- range $gallery -}}
-    <a href="{{ .RelPermalink }}" target="_blank" class="gallery-slide">
-      <img src="{{ .RelPermalink }}" alt="{{ .Name }}" />
+    {{- $full := .RelPermalink -}}
+    <a href="{{ $full }}" target="_blank" class="gallery-slide">
+      {{- partial "img/picture.html" (dict "img" . "alt" .Name "width" 600 "height" 400 "method" "Fill") -}}
     </a>
     {{- end -}}
   </div>

@@ -1,0 +1,81 @@
+{{- /*
+  Partial: img/process.html
+  Traite une image Hugo (resource) et retourne un dict avec les versions optimisées.
+
+  Params (dict) :
+    "img"     : (resource)  image source (obligatoire)
+    "width"   : (int)       largeur max — 0 = pas de contrainte largeur
+    "height"  : (int)       hauteur max — 0 = pas de contrainte hauteur
+    "method"  : (string)    "Resize" | "Fill" | "Fit" | "Crop" (défaut: "Resize")
+    "anchor"  : (string)    point d'ancrage pour Fill/Crop (défaut: "Smart")
+    "quality" : (int)       qualité 1-100 (défaut: config site)
+    "format"  : (string)    format fallback "jpg"|"png" (défaut: "jpg")
+
+  Retourne un dict :
+    "webp"     : image WebP traitée
+    "fallback" : image fallback (jpg/png) traitée
+    "original" : image source non traitée
+    "width"    : largeur finale
+    "height"   : hauteur finale
+*/ -}}
+
+{{- $img := .img -}}
+{{- $width := default 0 .width -}}
+{{- $height := default 0 .height -}}
+{{- $method := default "Resize" .method -}}
+{{- $anchor := default "Smart" .anchor -}}
+{{- $quality := default 0 .quality -}}
+{{- $format := default "jpg" .format -}}
+
+{{- /* Construction de la spec de traitement */ -}}
+{{- $qSuffix := "" -}}
+{{- if gt $quality 0 -}}
+  {{- $qSuffix = printf " q%d" $quality -}}
+{{- end -}}
+
+{{- $dims := "" -}}
+{{- if and (gt $width 0) (gt $height 0) -}}
+  {{- $dims = printf "%dx%d" $width $height -}}
+{{- else if gt $width 0 -}}
+  {{- $dims = printf "%dx" $width -}}
+{{- else if gt $height 0 -}}
+  {{- $dims = printf "x%d" $height -}}
+{{- else -}}
+  {{- /* Pas de redimensionnement, juste conversion de format */ -}}
+  {{- $dims = printf "%dx" $img.Width -}}
+{{- end -}}
+
+{{- $specWebp := printf "%s webp%s" $dims $qSuffix -}}
+{{- $specFallback := printf "%s %s%s" $dims $format $qSuffix -}}
+
+{{- /* Fill/Crop nécessitent un ancrage */ -}}
+{{- if or (eq $method "Fill") (eq $method "Crop") -}}
+  {{- $specWebp = printf "%s %s webp%s" $dims $anchor $qSuffix -}}
+  {{- $specFallback = printf "%s %s %s%s" $dims $anchor $format $qSuffix -}}
+{{- end -}}
+
+{{- /* Traitement */ -}}
+{{- $webp := false -}}
+{{- $fallback := false -}}
+
+{{- if eq $method "Fill" -}}
+  {{- $webp = $img.Fill $specWebp -}}
+  {{- $fallback = $img.Fill $specFallback -}}
+{{- else if eq $method "Fit" -}}
+  {{- $webp = $img.Fit $specWebp -}}
+  {{- $fallback = $img.Fit $specFallback -}}
+{{- else if eq $method "Crop" -}}
+  {{- $webp = $img.Crop $specWebp -}}
+  {{- $fallback = $img.Crop $specFallback -}}
+{{- else -}}
+  {{- $webp = $img.Resize $specWebp -}}
+  {{- $fallback = $img.Resize $specFallback -}}
+{{- end -}}
+
+{{- return (dict
+  "webp" $webp
+  "fallback" $fallback
+  "original" $img
+  "width" $fallback.Width
+  "height" $fallback.Height
+) -}}

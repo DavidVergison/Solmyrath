@@ -16,9 +16,16 @@
 .site-header-bg {
   position: absolute;
   inset: 0;
-  background-size: cover;
-  background-position: center 40%;
   filter: brightness(0.45) saturate(1.2);
+}
+
+.site-header-bg picture,
+.site-header-bg-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 40%;
 }
 
 .site-header-overlay {

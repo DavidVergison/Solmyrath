@@ -1,0 +1,37 @@
+{{- /*
+  Partial: img/picture.html
+  Génère un élément <picture> avec source WebP et fallback.
+
+  Params (dict) :
+    "img"     : (resource) image source (obligatoire)
+    "alt"     : (string)   texte alternatif (défaut: "")
+    "class"   : (string)   classe CSS de l'<img> (défaut: "")
+    "width"   : (int)      largeur max
+    "height"  : (int)      hauteur max
+    "method"  : (string)   "Resize"|"Fill"|"Fit"|"Crop" (défaut: "Resize")
+    "anchor"  : (string)   ancrage pour Fill/Crop (défaut: "Smart")
+    "quality" : (int)      qualité 1-100
+    "format"  : (string)   format fallback "jpg"|"png" (défaut: "jpg")
+    "loading" : (string)   "lazy"|"eager" (défaut: "lazy")
+    "sizes"   : (string)   attribut sizes pour responsive (optionnel)
+*/ -}}
+
+{{- $img := .img -}}
+{{- $alt := default "" .alt -}}
+{{- $class := default "" .class -}}
+{{- $loading := default "lazy" .loading -}}
+{{- $sizes := default "" .sizes -}}
+
+{{- $processed := partial "img/process.html" . -}}
+{{- $webp := $processed.webp -}}
+{{- $fallback := $processed.fallback -}}
+
+<picture>
+  <source srcset="{{ $webp.RelPermalink }}" type="image/webp"{{ with $sizes }} sizes="{{ . }}"{{ end }}>
+  <img src="{{ $fallback.RelPermalink }}"
+       alt="{{ $alt }}"
+       width="{{ $fallback.Width }}"
+       height="{{ $fallback.Height }}"
+       loading="{{ $loading }}"
+       {{- with $class }} class="{{ . }}"{{ end }}>
+</picture>
