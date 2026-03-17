@@ -1,0 +1,31 @@
+{
+  "primitif_jungle_m": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink linework and warm dappled sunlight filtering through a dense jungle canopy. A male human from a jungle tribe is shown from the chest up, with a lean and wiry build. His dark hair is adorned with small feathers and bone beads, and his alert amber-brown eyes are constantly scanning, sharp with vigilance. His skin is decorated with ritualistic geometric body paint in white ochre. He wears bone and leather tribal gear, minimal and functional. The color palette is earthy — forest greens, ochres, and deep browns against dramatic jungle shadows. His expression is primal and watchful, utterly at home in this environment. A handmade blowgun rests in his hand.",
+    "negative": ""
+  },
+
+  "primitif_jungle_f": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink linework and warm dappled light filtering through a dense jungle canopy. A female human from a jungle tribe is shown from the chest up, with a lean and agile build. Her dark hair is braided and decorated with small feathers and bone beads, and her alert dark eyes carry the focused calm of an experienced hunter. Ritualistic geometric body paint in white and rust ochre marks her shoulders and cheeks. She wears minimal leather and woven fiber armor, carrying a long bone-handled knife at her hip. The color palette is deep forest green, ochre, and earthy brown against dramatic jungle shadows. Her expression is composed and alert, as though the forest itself is speaking to her.",
+    "negative": ""
+  },
+
+  "primitif_plaines_m": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink linework and warm golden light across an open savanna at golden hour, tall dry grass stretching behind him. A male human from a plains tribe is shown from the chest up, with a lean and wiry build. His dark copper-toned braided hair is decorated with large bird feathers and clan beads, and his alert amber-brown eyes scan the horizon with a tracker's steady calm. His skin is decorated with ritualistic geometric body paint in red and black clay. He wears bone and leather tribal gear, minimal and functional. The color palette is amber, ochre, and warm red-brown against the vast golden sky. His expression is focused and distant, attuned to movement at the edge of sight. A long bone-tipped spear rests in his hand.",
+    "negative": ""
+  },
+
+  "primitif_plaines_f": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink linework and warm sunset light over an open savanna, tall dry grass behind her. A female human from a plains tribe is shown from the chest up, with a lean and agile build. Her dark copper hair falls in long braids adorned with large bird feathers and clan beads, and her alert dark eyes carry the focused calm of an experienced tracker. Red clay and black ash geometric body paint marks her shoulders and cheeks. She wears minimal leather and woven fiber armor. The color palette is amber, deep ochre, and warm brown against a wide burning sky. Her expression is composed and alert, reading the wind and the grass. A decorated hunting spear rests at her side.",
+    "negative": ""
+  },
+
+  "primitif_boreal_m": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink linework and cold blue winter light filtering through a dark boreal forest, bare trees and deep shadow behind him. A male human from a northern tribe is shown from the chest up, with a lean and wiry build. His light brown hair is worn loose, and white clay tattoos mark his cheeks and jaw in precise geometric patterns. His pale grey eyes carry the steady calm of someone who has learned to read the cold. He wears light furs and cured leather layered for warmth without bulk. The color palette is cold steel blue, grey-white, and dark bark brown against deep winter shadows. His expression is watchful and unhurried, as though the cold itself does not register.",
+    "negative": ""
+  },
+
+  "primitif_boreal_f": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink linework and cold blue winter light through a dark boreal forest, bare branches and pale snow behind her. A female human from a northern tribe is shown from the chest up, with a lean and agile build. Her light hair is braided with small carved bone ornaments, and white clay tattoos mark her cheekbones and brow in delicate geometric lines. Her pale grey-green eyes are calm and deeply attentive. She wears light furs layered over cured leather, practical for deep cold. The color palette is cold blue, grey-white, and dark bark brown against consuming winter shadows. Her expression is composed and still, utterly at home in the cold.",
+    "negative": ""
+  }
+}

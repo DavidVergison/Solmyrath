@@ -1,0 +1,31 @@
+{
+  "civilise_citadin_m": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink outlines and warm amber interior lighting. A male human merchant is shown from the chest up, with a confident and composed posture. His dark hair is neatly combed back, and his sharp brown eyes carry the calculating warmth of someone who reads people for a living. He wears a richly embroidered doublet in deep burgundy and gold over a clean linen shirt, with a guild medallion at his collar. The color palette is warm amber, gold, and deep red against dark atmospheric shadows. The background suggests a merchant's study — dark wood, candlelight, the edge of a ledger. His expression is a polite smile that doesn't quite reach his eyes.",
+    "negative": ""
+  },
+
+  "civilise_citadin_f": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink outlines and warm candlelight atmosphere. A female human merchant is shown from the chest up, with a poised and alert posture. Her auburn hair is pinned up in a practical but elegant style, and her green eyes are sharp with intelligence. She wears a fitted embroidered bodice in deep blue and bronze over a clean linen blouse, with a small guild brooch at her collar. The color palette is warm amber, bronze, and deep blue against dark atmospheric shadows. The background suggests a trading house interior — warm wood, soft candlelight, rolled maps. Her expression is composed and attentive, weighing every word before she speaks it.",
+    "negative": ""
+  },
+
+  "civilise_provincial_m": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink outlines and soft natural daylight through an open window, warm and unpretentious. A male human from a rural province is shown from the chest up, with a solid and practical build — broad shoulders from honest work, calloused hands. His brown hair is cut short and functional, and his warm hazel eyes are frank and direct, without guile. A faint stubble marks his jaw. He wears a clean but simple linen shirt under a leather vest, well-maintained but clearly not new, with a small iron clasp at the collar bearing a local crest. The color palette is warm earth tones — tan, forest green, and muted brown against soft golden light. The background suggests a provincial inn or a fortified manor — rough timber, a stone hearth, a sheathed sword leaning against the wall. His expression is open and measured — someone who says what he means and means what he says.",
+    "negative": ""
+  },
+
+  "civilise_provincial_f": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink outlines and warm afternoon light filtering through a half-open wooden shutter. A female human from a rural province is shown from the chest up, with a sturdy and capable build. Her chestnut hair is tied back in a practical braid, and her steady brown eyes carry quiet confidence and unshakable common sense. She wears a clean linen blouse under a fitted leather bodice, practical and well-kept, with a small iron pendant at her throat. The color palette is warm — honey gold, muted green, and soft brown against warm rustic shadows. The background suggests a countryside workshop or manor hall — rough-hewn wood, dried herbs, the glint of a blade on a workbench. Her expression is calm and grounded — someone who has learned more from the land than from any book.",
+    "negative": ""
+  },
+
+  "civilise_aristocrate_m": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink outlines and dramatic chiaroscuro lighting from a high window. A male human aristocrat is shown from the chest up, with an upright and commanding posture. His light brown hair falls to his shoulders in a carefully maintained style, and his blue-grey eyes carry quiet authority. He wears ornate plate-and-fabric court attire in silver and deep purple, with a signet ring visible on one hand. The color palette is silver, deep purple, and cream against dark marble shadows. The background suggests a noble hall — tall pillars, cold stone, a distant stained glass window. His expression is calm and assured, accustomed to obedience.",
+    "negative": ""
+  },
+
+  "civilise_aristocrate_f": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with visible ink outlines and cool elegant lighting. A female human aristocrat is shown from the chest up, with a regal and composed posture. Her dark hair is arranged in an elaborate but controlled style with silver pins, and her grey-blue eyes are steady and appraising. She wears a high-collared gown in deep violet and silver, with delicate embroidery and a family crest brooch. The color palette is silver, violet, and moonlight blue against dark marble shadows. The background suggests a palace corridor — cold stone, distant candlelight, the edge of a tapestry. Her expression is serene and unreadable, every emotion a deliberate choice.",
+    "negative": ""
+  }
+}

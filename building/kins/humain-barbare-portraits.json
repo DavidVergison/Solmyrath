@@ -1,0 +1,31 @@
+{
+  "barbare_nordique_m": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with bold ink outlines and harsh dramatic side lighting against a dark stormy sky. A male human barbarian of northern origin is shown from the chest up, with a massive powerful build. His blond hair is worn in thick war braids, and his ice-blue eyes burn with fierce determination. Runic tattoos in dark ink mark his arms and neck. A jagged battle scar crosses his left cheek. He wears heavy fur pelts over rough iron-studded leather armor. The color palette is cold — steel blue, grey, and white — with snow particles drifting in the air. His expression is fierce and unyielding. A massive war axe rests on his shoulder.",
+    "negative": ""
+  },
+
+  "barbare_nordique_f": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with bold ink outlines and cold dramatic lighting against a stormy winter sky. A female human barbarian of northern origin is shown from the chest up, with an athletic powerful build. Her auburn hair falls in war braids decorated with iron rings, and her pale grey eyes carry the hardness of someone who has survived every winter. Geometric runic tattoos mark her collarbone and forearms. She wears fur-lined leather armor with iron shoulder guards, practical and battle-worn. The color palette is cold steel blue, grey, and muted red against deep winter shadows. Her expression is calm and dangerous, the stillness before the storm. A round shield is visible at her back.",
+    "negative": ""
+  },
+
+  "barbare_steppique_m": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with bold ink outlines and warm golden light across vast open steppes at sunset. A male human barbarian from the steppes is shown from the chest up, with a lean and hardened build. His dark hair is pulled back tightly, and his sharp dark eyes scan the horizon with a predator's patience. Wind-burnt skin is marked with ritual scars across his cheekbones. He wears layered fur and leather riding gear, with a composite bow visible at his back. The color palette is warm gold, ochre, and dark brown against a vast burning sky. His expression is patient and calculating — the look of a hunter who has never needed to hurry.",
+    "negative": ""
+  },
+
+  "barbare_steppique_f": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with bold ink outlines and golden sunset light over vast open steppes. A female human barbarian from the steppes is shown from the chest up, with a lean and athletic build shaped by horseback life. Her dark hair is braided close to her scalp with small bone ornaments, and her sharp brown eyes carry the patient intensity of a born tracker. Ritual scars mark her jawline. She wears layered leather and fur riding gear, with a quiver of arrows visible at her shoulder. The color palette is warm amber, ochre, and dark leather brown against a wide sky. Her expression is steady and watchful, reading the wind.",
+    "negative": ""
+  },
+
+  "barbare_montagnard_m": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with bold ink outlines and cold harsh light breaking through heavy clouds over jagged mountain peaks. A male human barbarian from the high mountains is shown from the chest up, with a massive and stocky build, barrel-chested and immovable. His dark brown hair is cropped short on the sides with a thick braided topknot, and a dense beard covers his jaw, braided with iron clasps. His weathered skin is marked with old burn scars from the forge and deep geometric tattoos across his brow and temples. His dark amber eyes are steady and immovable beneath heavy brows. He wears thick cured leather reinforced with crude iron plates at the shoulders, layered over heavy furs. The color palette is slate grey, iron black, and deep brown against a cold overcast mountain sky. His expression is impassive and absolute — a man shaped by stone who has become stone himself. A heavy iron warhammer rests against his shoulder.",
+    "negative": ""
+  },
+
+  "barbare_montagnard_f": {
+    "positive": "A dark fantasy anime character portrait in shonen manga style with bold ink outlines and cold pale light filtering through mountain fog, dark rock faces and snow visible behind her. A female human barbarian from the high mountains is shown from the chest up, with a broad and powerful build, dense with muscle. Her dark hair is pulled back in a thick functional braid wound with leather cord, and deep geometric tattoos in charcoal ink mark her cheekbones and the bridge of her nose. Her dark grey eyes carry the weight of altitude and solitude. She wears layered cured leather and heavy furs, with crude iron bracers on her forearms, every piece scarred by use. The color palette is cold stone grey, dark iron, and muted brown against pale mountain fog. Her expression is unreadable and steady — someone who speaks rarely and never without reason. A broad-bladed axe hangs at her hip.",
+    "negative": ""
+  }
+}

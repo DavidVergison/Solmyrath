@@ -64,21 +64,6 @@ Chaque Kin définit :
 
 ---
 
-### Elfe
-*Longévité, arrogance tranquille. Seul peuple à avoir conservé la magie nativement.*
-
-| | |
-|---|---|
-| **Attribut-clé** | Esprit |
-| **Accès magie** | ✅ Oui — natif |
-| **Professions typiques** | Mage, Archer, Érudit, Diplomate |
-
-**Talent de Kin — Héritage Volé :** Tu as accès aux professions magiques sans condition. Une fois par session, tu peux poser une question sur la nature magique d'un objet, lieu ou créature et obtenir une réponse partielle (sans jet).
-
-> ⚠️ À discuter : est-ce que les autres peuples connaissent l'histoire du Vol ? Comment les Elfes sont-ils perçus ?
-
----
-
 ### Semi-Elfe
 *Rejeté des deux côtés. Protagoniste torturé par excellence.*
 
@@ -240,39 +225,10 @@ Chaque Kin définit :
 
 ---
 
-### Dryade
-*Liée à un arbre-source. Magie de territoire, mémoire ancienne.*
-
-| | |
-|---|---|
-| **Attribut-clé** | Esprit |
-| **Accès magie** | ⚠️ À décider — lien à la magie naturelle antérieure au Vol ? |
-| **Professions typiques** | Druide, Érudit, Gardien |
-
-**Talent de Kin — Lien à la Terre :** Dans une forêt ou zone naturelle dense, tu peux "sentir" toute créature à moins de 100m sans jet. Tu te soignes plus vite au repos dans la nature (+1 point de soin par repos long).
-
-> ❓ La Dryade a-t-elle un accès naturel à la magie qui précède le Vol des Elfes — fragment d'une magie plus ancienne ? Ce serait lore-rich.
-
----
-
-### Élémentaire de Terre
-*Lent, imprenable, mémoire minérale. Plus proche de la montagne que de l'humain.*
-
-| | |
-|---|---|
-| **Attribut-clé** | Force |
-| **Accès magie** | Héritage Visiteur / Elfe uniquement |
-| **Professions typiques** | Guerrier, Forgeron, Gardien |
-
-**Talent de Kin — Roc :** Tu ne peux pas être renversé ou repoussé sans consentement. Réduction de 1 point sur tous les dégâts physiques (minimum 1). En contrepartie, ta vitesse de déplacement est réduite — tu ne peux jamais fuir un combat en courant.
-
----
-
 ## ❓ Questions ouvertes sur les Kins
 
 1. **Vulpin : Kin séparé ou sous-type Canin ?** L'accès potentiel à la magie et la saveur illusion/tromperie en font un cas à part.
 2. **Reptilien : un Kin ou plusieurs ?** Lézard agile vs Serpent venimeux vs Crocodile-tank sont très différents visuellement mais proches mécaniquement.
 3. **Semi-Elfe : Kin autonome ou background ?** Impacte la flexibilité de création et la fréquence d'apparition en jeu.
-4. **Dryade : accès à une magie ancienne pré-Vol ?** Ouvrirait une troisième source de magie distincte des Visiteurs et des Elfes.
-5. **Femme-Fleur : impact saisonnier mécanique ?** Malus en hiver, bonus au printemps — savoureux mais complexifie la gestion.
-6. **Les Therian descendants de Visiteurs sont-ils identifiables ?** Ont-ils un marqueur visuel qui trahit leur héritage magique ?
+4. **Femme-Fleur : impact saisonnier mécanique ?** Malus en hiver, bonus au printemps — savoureux mais complexifie la gestion.
+5. **Les Therian descendants de Visiteurs sont-ils identifiables ?** Ont-ils un marqueur visuel qui trahit leur héritage magique ?

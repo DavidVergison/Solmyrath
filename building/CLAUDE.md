@@ -22,7 +22,10 @@ Conception d'un systeme de regles et d'un univers de JDR base sur le **Year Zero
 - Ne jamais contredire une decision deja prise sans le signaler explicitement
 - Si une information n'existe pas encore, le signaler et proposer de l'ajouter
 - Lors de la conception d'un peuple : conscience de l'heritage Visiteur ? statut social des mages ? magie non reconnue comme telle ?
-- Prompts image : suivre `comfyui-prompt-library-flux2klein.md` — langage naturel, structure Subject→Pose→Apparence→Environnement→Eclairage→Style, prompts complets et directement utilisables (pas d'instructions de remplacement)
+- Prompts image : suivre `comfyui-prompt-library-flux2klein.md` — langage naturel, prompts complets et directement utilisables (pas d'instructions de remplacement)
+- Prompts image — visages humains obligatoires : tous les personnages ont une figure humaine. Ne jamais decrire de fourrure, ecailles ou museau couvrant le visage. Les traits animaux (oreilles, queue, griffes, ecailles partielles) se limitent au corps.
+- Prompts image — pas de label animal : ne jamais utiliser les mots "therian", "feline", "canine", "ursine", "lagomorph", "rapace", "reptilian" etc. dans un prompt. Decrire uniquement les traits concrets (oreilles de chat, queue de loup, plumage sur les bras, ecailles sur le cou).
+- Prompts image — ordre (Flux poids les premiers tokens plus fort) : visage humain + traits distinctifs → style anchor → corps/equipement → pose → environnement → palette/mood
 
 ## Decisions cles (ne pas remettre en question)
 
@@ -37,8 +40,9 @@ Conception d'un systeme de regles et d'un univers de JDR base sur le **Year Zero
 
 ### Lore
 - Tous les peuples jouables sont arrives via des portails
-- Les Elfes ont vole la magie aux autres — tous les peuples les detestent
+- Les Elfes ont vole la magie aux autres — tous les peuples les detestent ; les Elfes sont PNJ uniquement
 - Les Demi-Elfes sont bannis par les Elfes et ostracises par les autres
+- Dryade et Elementaire de Terre sont PNJ uniquement
 - Visiteur classique : arrive corps et ame, conserve ses souvenirs
 - Visiteur-Joueur (PJ) : ame seule, dans le corps d'un natif dont l'ame a disparu via un rituel
 - Les Visiteurs-Joueurs ne peuvent pas rentrer chez eux (revelation scenario 5-6, raisons a definir)

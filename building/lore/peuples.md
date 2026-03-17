@@ -16,18 +16,18 @@
 | Primitif | Agilité | Chasseur-cueilleur, jungle, totémique |
 
 ### Classiques
-Elfe · Demi-Elfe · Nain · Halfelin
+Demi-Elfe · Nain · Halfelin
 
 ### Therians
 Félin · Canin · Vulpin · Rapace · Ursidé/Lourd · Reptilien · Lagomorphe/Agile
 
 ### Végétaux / Naturels
-Hanakotoba · Dryade · Élémentaire de Terre
+Hanakotoba
 
 ---
 
 ## Peuples non-jouables (PNJ uniquement)
-Oni · Vampire · Golem · Céleste · Démon · Fée · Spirites élémentaires (Feu, Vent, Eau)
+Elfe · Dryade · Élémentaire de Terre · Oni · Vampire · Golem · Céleste · Démon · Fée · Spirites élémentaires (Feu, Vent, Eau)
 
 ---
 
