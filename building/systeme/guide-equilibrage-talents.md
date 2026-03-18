@@ -202,7 +202,7 @@ SYM : Epeiste virtuose Maitre (riposte illimitee) + haute Defense = un personnag
 
 ### Economie des Points de Volonte (PV)
 
-Les talents actifs coutent des **Points de Volonte (PV)** pour etre actives. Les PV sont generes par le push (1 PV par push, que le push reussisse ou echoue). La reserve max de PV = ⌈(Esprit + Empathie) / 2⌉ + 1 (echelle typique : 3-6 PV).
+Les talents actifs coutent des **Points de Volonte (PV)** pour etre actives. Les PV sont generes par le push (1 PV par push, que le push reussisse ou echoue). La reserve max de PV = meilleur attribut du personnage (echelle typique : 3-5 PV).
 
 **Couts typiques par rang :**
 

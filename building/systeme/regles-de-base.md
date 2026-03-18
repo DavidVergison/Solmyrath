@@ -127,7 +127,6 @@ Après un jet raté (ou jugé insuffisant), le joueur peut **pousser** :
 | **Dés de Base** (Attribut) | Jaune | −1 point à l'attribut correspondant |
 | **Dés de Compétence** | Bleu | Aucune conséquence |
 | **Dés d'Équipement** | Noir | −1 au bonus de l'objet (usure) |
-| **Dés de Stress** | Rouge | Déclenchement d'un jet de Panique |
 | **Dés de Résolution** (magie) | Violet | Blessure magique (voir `magie.md`) |
 
 > Le push est le cœur du YZE : il offre une seconde chance, mais à un coût. C'est au joueur de décider si le risque vaut la peine.
@@ -145,10 +144,10 @@ Chaque fois qu'un joueur **pousse un jet**, il gagne **1 PV**, que le push réus
 ### Réserve maximale
 
 ```
-Réserve PV max = ⌈(Esprit + Empathie) / 2⌉ + 1
+Réserve PV max = meilleur attribut du personnage
 ```
 
-La réserve suit la même formule que la Résolution (échelle typique : 3 à 6 PV). Les PV excédentaires au-delà de la réserve max sont perdus.
+Avec des attributs de 2 à 5, la réserve est typiquement de **3 à 5 PV**. Les PV excédentaires au-delà de la réserve max sont perdus.
 
 ### Début de session
 
@@ -180,10 +179,9 @@ Ou bien **2 actions rapides** à la place.
 ### Attaque au corps à corps (guerrier)
 
 ```
-Pool = Force + Mêlée + Bonus d'arme (0–2) + Dés de Stress actuels
+Pool = Force + Mêlée + Bonus d'arme (0–2)
 ```
 
-- Les **dés de Stress** augmentent le pool (plus de chances de succès) mais comportent un risque : un **1 sur un dé de Stress** lors d'un push déclenche un jet de **Panique**.
 - Chaque couleur de dé est distincte pour identifier les conséquences au push.
 - **1 succès** = touche. Chaque **succès excédentaire** peut être converti en dégâts supplémentaires ou en prouesses de combat.
 
@@ -237,5 +235,4 @@ Se déplacer d'une zone à une zone adjacente coûte **une action rapide**.
 - [ ] Table de blessures critiques (d66 générique à adapter) ?
 - [ ] Prouesses de combat disponibles et leurs coûts en succès ?
 - [ ] **Défense et talents de Kin** : le talent "Sur ses gardes" (Vif) donne −1 dé attaquant si le Vif s'est déplacé ce round. À préciser : (1) "s'être déplacé" = avoir utilisé son action de déplacement, ou tout mouvement même gratuit ? (2) interaction avec l'esquive existante (Agilité + Déplacement) — cumul ou substitution ? (3) décider si les talents de Kin passifs peuvent modifier les jets adverses de façon générale.
-- [ ] Stress : intégré dès la création ou introduit progressivement ?
-- [x] Points de Volonté : **adoptes** — generes par le push (1 PV/push), depenses pour les talents actifs, reserve max = Resolution max
+- [x] Points de Volonté : **adoptés** — générés par le push (1 PV/push), dépensés pour les talents actifs, réserve max = meilleur attribut du personnage

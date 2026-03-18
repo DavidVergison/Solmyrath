@@ -117,7 +117,7 @@
 
 ### Cantrips
 - **Priere muette** (un bref moment de communion avec sa divinite — sentiment de guidance, pas de reponse precise)
-- **Flamme votive** (creer une petite flamme sacree qui apaise — reduit de 1 le stress d'un allie au repos)
+- **Flamme votive** (creer une petite flamme sacree qui apaise — recupere 1 point de Resolution d'un allie au repos)
 
 ### Cercle 1
 - Benediction
@@ -246,7 +246,7 @@
 
 ### Cercle 1
 - Inspiration (bonus a un allie)
-- Chant apaisant (reduire le stress d'un allie)
+- Chant apaisant (recuperer 1 point de Resolution d'un allie)
 - Memoire du nom (se rappeler un detail oublie)
 - Chant de marche (reduire la fatigue de voyage)
 

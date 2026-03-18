@@ -116,7 +116,7 @@ Chaque blessure magique **reduit la Resolution maximale de 1** jusqu'a ce qu'ell
 
 Consequences en cascade :
 - Le mage a moins de Resolution disponible pour ses prochains sorts.
-- Il est plus vulnerable au stress, a la peur et a l'horreur (meme jauge).
+- Il est plus vulnerable a la peur et a l'horreur (Resolution entamee).
 - Sa capacite a encaisser la pression mentale diminue.
 
 C'est **auto-equilibrant** : plus le mage force, moins il peut forcer ensuite.
@@ -137,7 +137,7 @@ Si la Resolution maximale d'un mage tombe a **0** suite a des blessures magiques
 | 1 | **Coupure temporaire** : impossible de lancer tout sort pendant 1d6 jours |
 | 2 | **Stigmate magique** : marque physique visible (yeux changeants, veines lumineuses, etc.) -- permanent, consequence sociale |
 | 3 | **Instabilite** : la magie du mage devient erratique. -1 de permanent a tous les jets d'Arcanes tant que non soigne par un rituel |
-| 4 | **Resonance douloureuse** : le mage subit 1 point de stress a chaque fois qu'il est en presence de magie |
+| 4 | **Resonance douloureuse** : le mage subit 1 point de degat de Resolution a chaque fois qu'il est en presence de magie |
 | 5 | **Perte de sort** : le mage oublie un sort aleatoire. Il peut le reapprendre normalement. |
 | 6 | **Eveil incontrolable** : un effet magique aleatoire se declenche (au choix du MJ). Le mage perd connaissance. |
 
@@ -185,19 +185,8 @@ Le mage peut toujours depenser **plus de Resolution que le cout minimum** pour a
 | **Ressource consommee** | Arme (reparable par Artisanat) | Resolution (guerissable par repos/soin) |
 | **Fiabilite** | Haute -- peut attaquer chaque round sans cout | Variable -- chaque sort coute de la Resolution |
 | **Puissance de pointe** | Reguliere et stable | Haute mais episodique |
-| **Vulnerabilite** | Degats physiques | Stress, peur, horreur (Resolution entamee) |
+| **Vulnerabilite** | Degats physiques | Peur et horreur (Resolution entamee) |
 | **Avantage en longue duree** | Le guerrier tient la distance | Le mage s'epuise et doit gerer ses ressources |
-
----
-
-## Interaction avec le stress de combat
-
-Le systeme actuel (voir resume.md) ajoute le stress au pool de des en combat, avec un risque sur les 1 des des de stress.
-
-Pour un mage en combat :
-- Le stress s'ajoute normalement a ses jets de sort (comme a tout jet).
-- Un mage stresse lance plus de des (bien) mais risque des effets de stress ET des blessures magiques (mal).
-- La Resolution etant partagee entre magie et resistance au stress, un mage qui a beaucoup lance de sorts est aussi plus vulnerable a la panique.
 
 ---
 

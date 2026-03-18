@@ -392,7 +392,7 @@
 - **R2** : 2 fois par session. De plus, quand le groupe rencontre un ennemi connu dans les legendes, le Chantelame revele une faiblesse ou une habitude exploitable (+1 de au groupe contre cette creature pour la scene).
 - **R3** : Le Chantelame peut **Nommer les Choses** : 1 fois par session, en nommant publiquement un ennemi, un lieu, ou un evenement, il impose une verite narrative mineure. Le MJ integre cette declaration si elle est plausible (ex: "Ce pont a ete construit par les Nains — il doit avoir un passage secret" → le MJ confirme ou ajuste).
 
-**Dissonance** — Destabiliser, effrayer, et infliger du stress par la voix.
+**Dissonance** — Destabiliser, effrayer, et infliger des degats de Resolution par la voix.
 - **R1** : 1 fois par round, depenser 1 PV pour forcer un ennemi dans la zone a faire un jet d'Esprit. En cas d'echec, l'ennemi subit -1 de a son prochain jet.
 - **R2** : La Dissonance peut cibler tous les ennemis dans la zone (un seul jet du Chantelame, chaque ennemi resiste separement). Les ennemis qui echouent subissent Effraye en plus du malus.
 - **R3** : 1 fois par scene, le Chantelame peut depenser 2 PV pour une **Note Brisante** : tous les ennemis dans la zone subissent 2 degats de Resolution (stress/mental, ignore l'armure). Les ennemis dont la Resolution tombe a 0 fuient ou se rendent.
